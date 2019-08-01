@@ -1,0 +1,31 @@
+{
+  "name": "Universal Music Group",
+  "children": [
+    {
+      "name": "45/8 Jam"
+    },
+    {
+      "name": "AB Kn\u00e4ppupp"
+    },
+    {
+      "name": "Abstract Sounds Music Ltd."
+    },
+    {
+      "name": "Aftermath/Interscope Records"
+    },
+    {
+      "name": "Alamo Records (5)"
+    },
+    {
+      "name": "Almo Sounds"
+    },
+    {
+      "name": "Amadeo \u00d6sterreichische Schallplatten Ges.m.b.H.",
+      "children": [
+        {
+          "name": "\u00c0 La Carte"
+        }
+      ]
+    }
+  ]
+}
