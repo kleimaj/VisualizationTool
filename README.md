@@ -1,8 +1,8 @@
-#Visualization Tool
+# Visualization Tool
 
-##Music Informatics Initiative
+## Music Informatics Initiative
 
-###A Python project that utilizes the data visualization library Plot.ly to illustrate the creative metadata of record labels
+### A Python project that utilizes the data visualization library Plot.ly to illustrate the creative metadata of record labels
 
 To run this program, one must first clone this repository:
 ```
