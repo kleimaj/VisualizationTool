@@ -17,6 +17,14 @@ from plotly.subplots import make_subplots
 from ipywidgets import widgets
 from anytree import Node, RenderTree, AsciiStyle,search
 from anytree.exporter import JsonExporter
+import plotly.io as pio
+import plotly.tools as tls
+import plotly
+from plotly.offline import *
+import warnings
+warnings.filterwarnings("ignore", "Your application has authenticated using end user credentials")
+#plotly.offline.init_notebook_mode(connected=True)
+# tls.set_credentials_file(username='kleimaj', api_key='00bEhpqcrEmwybc0fP4F')
 
 #parse_json
 #params: name of the json file (string)
@@ -54,11 +62,11 @@ def get_sub_labels(label):
         labels = [label]
         node = search.find_by_attr(root, name="name", value=label)
         if not node:
-            print(labels)
+            # print(labels)
             return labels
         #node = search.findall(root, filter_= lambda node: label in node.name,maxcount=1)
         labels = recurse_children(labels,node.children)
-        print(labels)
+        # print(labels)
         return labels
     except:
         print("Label " + label + " not found.")
@@ -79,7 +87,7 @@ def get_from_bq(labels):
     bqc = bigquery.Client()
     #if there are no labels found in the JSON Tree
     if len(labels) == 1:
-        print(labels)
+        # print(labels)
         #Query all names like labels[0]
         query_string = """
                     SELECT DISTINCT t1.r2_label_name
@@ -89,9 +97,9 @@ def get_from_bq(labels):
         results = bqc.query(query_string).result()
         for result in results:
             labels.append(result[0])
-        print(labels)
+        # print(labels)
         query_string = """
-        SELECT t1.path, t1.value
+        SELECT t1.path, t1.value,t1.isrc
         FROM `umg-edw.metadata.amplify_tem_v3_3`AS t1 INNER JOIN `umg-edw.metadata.canopus_resource` AS t2
         ON t1.isrc = t2.r2_isrc
         WHERE t1.source = \'Manual\'
@@ -99,9 +107,9 @@ def get_from_bq(labels):
         """.format(", ".join(repr(e) for e in labels))
     #if there are labels and sublabels found in the JSON Tree
     elif len(labels) > 1:
-        print(labels)
+        # print(labels)
         query_string = """
-                SELECT t1.path, t1.value
+                SELECT t1.path, t1.value, t1.isrc
                 FROM `umg-edw.metadata.amplify_tem_v3_3`AS t1 INNER JOIN `umg-edw.metadata.canopus_resource` AS t2
                 ON t1.isrc = t2.r2_isrc
                 WHERE t1.source = \'Manual\'
@@ -110,19 +118,19 @@ def get_from_bq(labels):
     # Wil not be invoked
     else:
         query_string = """
-                SELECT t1.path, t1.value
+                SELECT t1.path, t1.value, t1.isrc
                 FROM `umg-edw.metadata.amplify_tem_v3_3`AS t1
                 WHERE t1.source = \'Manual\';
                         """
     #initialize DataFrame
     data = []
-    #print(query_string)
     results = bqc.query(query_string).result()
     for row in results:
         # if len(labels) == 1:
         #     print(row[2])
-        data.append([row[0],row[1]])
-    df = pd.DataFrame(data, columns=['Path', 'Value'])
+        data.append([row[0],row[1],row[2]])
+    df = pd.DataFrame(data, columns=['Path', 'Value','isrc'])
+    # print(df)
     return df
 
 #initialize lists of creative metadata from BigQuery
@@ -133,7 +141,7 @@ def add_fig_traces(figs,keys,values,visiblity,title):
     figs.add_trace(go.Pie(labels=keys, values=values, visible = visiblity,name=title, hole=0.3,
                           title=title)) #textfont=dict(size=1000)))
 
-def calc_metadata(df,label):
+def calc_metadata(df,label, num_isrc):
     genre_data,emotion_data,intensity_data,instrument_data,lyric_theme_data,\
     sound_color_data,ensemble_timbre_data = get_lists()
     for row_index,row in df.iterrows():
@@ -156,7 +164,7 @@ def calc_metadata(df,label):
             ensemble_timbre_data.append(row[1])
     genre_fig, genre_keys, genre_values = calc_averages(genre_data)
     #genre_fig.show()
-    emotion_fig, emotion_keys, emotion_values= calc_averages(emotion_data)
+    emotion_fig, emotion_keys, emotion_values= calc_averages_emotion(emotion_data)
     #emotion_fig.show()
     intensity_fig, intensity_keys, intensity_values= calc_averages_intensity(intensity_data)
     instrument_fig, instrument_keys,instrument_values = calc_averages_instrument(instrument_data)
@@ -176,11 +184,15 @@ def calc_metadata(df,label):
                              '#46f0f0', '#f032e6', '#bcf60c', '#fabebe', '#008080', '#e6beff',
                              '#9a6324', '#fffac8', '#800000', '#aaffc3', '#808000', '#ffd8b1',
                              '#000075', '#808080', '#ffffff', '#000000']
-    figs.update_traces(hoverinfo='label+percent', textinfo='label+percent', textfont_size=15,
-                                         marker=dict( line=dict(color='#000000', width=2)))
-    make_layout(figs,label)
+    figs.update_traces(hoverinfo='label+percent', textinfo='label+percent', textfont_size=10,
+                                         marker=dict(line=dict(color='#000000', width=2)))
+    make_layout(figs,label,num_isrc)
 
     figs.show()
+    #plotly.offline.plot(figs, filename='basic-line', include_plotlyjs=False, output_type='div')
+    # plotly.offline.iplot(figs)
+    #pio.write_html(figs, file='visualization.html', auto_open=True)
+    #plotly.offline.plot(figs,filename="jupyter - metadata visualizations")
 
 def calc_metadata_static(df,label):
     genre_data, emotion_data, intensity_data, instrument_data, lyric_theme_data, \
@@ -206,13 +218,39 @@ def calc_metadata_static(df,label):
     print("Data Parsed...")
     genre_fig, genre_keys, genre_values = calc_averages(genre_data)
     #genre_fig.show()
-    emotion_fig, emotion_keys, emotion_values= calc_averages(emotion_data)
+    emotion_fig, emotion_keys, emotion_values= calc_averages_emotion(emotion_data)
     #emotion_fig.show()
     intensity_fig, intensity_keys, intensity_values= calc_averages_intensity(intensity_data)
     instrument_fig, instrument_keys,instrument_values = calc_averages_instrument(instrument_data)
     lyric_fig,lyric_keys,lyric_values = calc_averages_lyrics(lyric_theme_data)
     sound_fig,sound_keys,sound_values = calc_averages(sound_color_data)
     ensemble_fig,ensemble_keys,ensemble_values = calc_averages(ensemble_timbre_data)
+
+    #Output to CSV
+
+    # f = open("genre.csv",'w')
+    # writer = csv.writer(f, delimiter='\t')
+    # writer.writerows(zip(genre_keys,genre_values))
+    # f = open("emotion.csv", 'w')
+    # writer = csv.writer(f, delimiter='\t')
+    # writer.writerows(zip(emotion_keys, emotion_values))
+    # f = open("intensity.csv", 'w')
+    # writer = csv.writer(f, delimiter='\t')
+    # writer.writerows(zip(intensity_keys,intensity_values))
+    # f = open("instrument.csv", 'w')
+    # writer = csv.writer(f, delimiter='\t')
+    # writer.writerows(zip(instrument_keys,instrument_values))
+    # f = open("lyric.csv", 'w')
+    # writer = csv.writer(f, delimiter='\t')
+    # writer.writerows(zip(lyric_keys, lyric_values))
+    # f = open("sound.csv", 'w')
+    # writer = csv.writer(f, delimiter='\t')
+    # writer.writerows(zip(sound_keys, sound_values))
+    # f = open("ensemble.csv", 'w')
+    # writer = csv.writer(f, delimiter='\t')
+    # writer.writerows(zip(ensemble_keys, ensemble_values))
+
+
 
     figs = go.Figure()
     add_fig_traces(figs, genre_keys, genre_values, True, "Genre")
@@ -226,30 +264,39 @@ def calc_metadata_static(df,label):
                              '#46f0f0', '#f032e6', '#bcf60c', '#fabebe', '#008080', '#e6beff',
                              '#9a6324', '#fffac8', '#800000', '#aaffc3', '#808000', '#ffd8b1',
                              '#000075', '#808080', '#ffffff', '#000000']
-    figs.update_traces(hoverinfo='label+percent', textinfo='percent', textfont_size=20,
-                                         marker=dict( line=dict(color='#000000', width=2)))
+    figs.update_traces(hoverinfo='label+percent', textinfo='label+percent', textfont_size=7,
+                       marker=dict(line=dict(color='#000000', width=2)))
     make_layout(figs,label)
 
     figs.show()
 
-def make_layout(figs,label):
+    #plotly.offline.plot(figs, filename='basic-line', include_plotlyjs=False, output_type='div')
+    # pio.write_html(figs,file='visualization.html',auto_open=True)
+    # plot_url = py.plot(figs, filename='ruo2-2')
+    #
+    # print (tls.get_embed(plot_url))
+
+
+def make_layout(figs,label,num_isrc):
     format = "pie"
     figs.update_layout(
-        width=800,
-        height=900,
-        autosize=False,
-        margin=dict(t=0, b=0, l=0, r=0),
-        template="plotly_white",
+    #     width=800,
+    #     height=900,
+    #     autosize=False,
+    #     margin=dict(t=0, b=0, l=0, r=0),
+        template="ggplot2",
+        plot_bgcolor = 'rgba(0,0,0,0)'
     )
 
     figs.update_layout(
-        title={"text": label + "<br>" + "Manually Distributed Tags"},
-        width=1800,
+        title={"text": label +" "+ "<br />" + "Manually Distributed Tags " + "<br />"+str(num_isrc)+" ISRCs Analyzed"},
+        width=1000,
         height=1000,
-        margin=go.layout.Margin(
-            l=350,
-            pad = 5
-        ),
+        # margin=go.layout.Margin(
+        #     l=350,
+        #     pad = 5,
+        #     t = 500
+        # ),
         updatemenus=[
             go.layout.Updatemenu(
                 type="buttons",
@@ -257,8 +304,7 @@ def make_layout(figs,label):
                 buttons=list([
                     dict(
                         # args=[{"values":genre_values, "labels":genre_keys}],
-                        args=[{
-                               "type": "pie"}],
+                        args=[{"type": "pie"}],
                         label="Pie",
                         method="restyle",
                     ),
@@ -272,8 +318,8 @@ def make_layout(figs,label):
                 ]),
                 pad={"r": 10, "t": 10},
                 showactive=True,
-                x=1,
-                y=1
+                x=-0.1,
+                y=.7
             ),
 
             go.layout.Updatemenu(
@@ -314,7 +360,7 @@ def make_layout(figs,label):
                 ]),
                 pad={"r": 10, "t": 10},
                 showactive=True,
-                x=-0.05,
+                x=-0.1,
                 # xanchor="left",
                 y=1
                 # yanchor="top"
@@ -428,6 +474,28 @@ def calc_averages_instrument(data):
             ave_values.append(norm_val)
     return createFigure(keys, ave_values), keys, ave_values
 
+def calc_averages_emotion(data):
+    keys = list(Counter(data).keys())
+    values = list(Counter(data).values())
+    values, keys = (list(t) for t in zip(*sorted(zip(values, keys))))
+    values.reverse()
+    keys.reverse()
+    if "Positive" in keys:
+        idx = keys.index("Positive")
+        del values[idx]
+        del keys[idx]
+    if "Negative" in keys:
+        idx = keys.index("Negative")
+        del values[idx]
+        del keys[idx]
+    ave_values = []
+    Sum = sum(values)
+    for value in values:
+        norm_val = round(((value / Sum) * 100), 1)
+        if norm_val >= 1:
+            ave_values.append(norm_val)
+    return createFigure(keys, ave_values), keys, ave_values
+
 def calc_averages_lyrics(data):
     keys = list(Counter(data).keys())
     values = list(Counter(data).values())
@@ -459,11 +527,11 @@ def createFigure(keys, values):
     return fig
 
 if len(sys.argv) == 1:
-    # df = get_from_bq([])
-    # df.to_csv('all_manual.csv')
-    df = pd.DataFrame(pd.read_csv("all_manual.csv"))
-    print("Generating Visualization ...")
-    calc_metadata_static(df,"All")
+    df = get_from_bq([])
+    #df = pd.DataFrame(pd.read_csv("all_manual.csv"))
+    #print("Generating Visualization ...")
+    calc_metadata(df, "Universal Music Group",df['isrc'].nunique())
+
 else :
     if "@" in sys.argv:
         print("EMAIL\n")
@@ -472,11 +540,12 @@ else :
         label = parse_label()
         labels = get_sub_labels(label)
         df = get_from_bq(labels)
+        # print(df['isrc'].nunique())
         if df.empty:
             print("No results found in Big Query")
             sys.exit(1)
-        print("Generating Visualization ...")
-        calc_metadata(df,label)
+        # print("Generating Visualization ...")
+        calc_metadata(df,label,df['isrc'].nunique())
 
 
 #print(RenderTree(root, style=AsciiStyle()).by_attr())
