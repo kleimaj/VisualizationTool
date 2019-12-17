@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<!-- php -S localhost:8080 runs code in browser, then navigate to http://localhost:8080/ -->
+<html>
+    <head>
+        <title>
+            D3 Visualization
+        </title>
+        <script src="https://d3js.org/d3.v4.js"></script>
+        <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+        <script src="d3-legend.js"></script>       
+    </head>
+    <p>Intensity Tagged IRCAM Data</p>
+    <div id = "buttons";
+      style = "margin-left: 420px";>
+      <button id = "manual" onclick="update(data1, 0); change(getData(0))">Manual</button>
+      <button id = "auto" onclick="update(data2, 1); change(getData(1))">Automatic</button>
+    </div> 
+    <div id="pie_graph"></div>
+    <div id="bar_graph"></div>
+
+
+    <style>
+            body {
+              margin-top: 50px;
+              margin-left: 100px;
+              font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+              /*margin: auto;*/
+              position: relative;
+              width: 1200px;
+              /*height: 1200px;*/
+            }
+            svg {
+              width: 100%;
+              height: 100%;
+            }
+
+            p {
+              /*margin-left: 100px;*/
+              text-align: center;
+              margin-right: 220px; 
+              font-size: 25px;
+            }
+
+            div.tooltip {	
+              position: absolute;			
+              text-align: center;			
+              width: 60px;					
+              height: 28px;					
+              padding: 2px;				
+              font: 12px sans-serif;		
+              background: lightsteelblue;	 
+              border: 0px;		
+              border-radius: 8px;			
+              pointer-events: none;			
+            }
+            
+            text {
+              font: 10px sans-serif;
+            }
+            
+            form {
+              position: absolute;
+              right: 10px;
+              top: 10px;
+            }
+
+            path.slice{
+              stroke-width:2px;
+            }
+
+            polyline{
+              opacity: .3;
+              stroke: black;
+              stroke-width: 2px;
+              fill: none;
+            }
+            
+            </style>
+
+    <body>
+        <script>
+            var data1 = {a: 14, b: 9, c: 12, d: 16, e: 23, f: 9, g: 17};
+            var data2 = {a: 1, b: 31, c: 0, d: 3, e: 36, f: 20, g: 9};
+			      var data3 = {Lowest: 14, Low: 9, MedLow: 12, Medium: 16, MedHigh: 23, High: 9, Highest: 17};
+			      var data4 = {Lowest: 1, Low: 31, MedLow: 0, Medium: 3, MedHigh: 36, High: 20, Highest: 9};
+            var dataNames1 = ["Lowest 14%", "Low 9%", "Med-Low 12%", "Medium 16%","Med-High 23%","High 9%","Highest 17%"];
+            var dataNames2 = ["Lowest 1%", "Low 31%", "Med-Low 0%", "Medium 3%","Med-High 36%","High 20%","Highest 9%"];
+
+            var width = 500;
+            var height = 500;
+            var margin = 40;
+            var radius = Math.min(width, height) / 2 - margin
+
+            var svg = d3.select("#bar_graph")
+                        .append("svg")
+                        .attr("width", width+100)
+                        .attr("height", height)
+                        .append("g")
+                        .attr("transform", "translate(" + width + "," + height / 2 + ")");
+
+			var svg_1 = d3.select("#pie_graph")
+				.append("svg")
+          .attr("height",500)
+				.append("g")
+			svg_1.append("g")
+				.attr("class","slices");
+			svg_1.append("g")
+				.attr("class","labels")
+			svg_1.append("g")
+				.attr("class","lines");
+			radius_1 = Math.min(960,450) / 2;
+			var pie_1 = d3.pie()
+				.sort(null)
+				.value(function(d) {
+					return d.value;
+				});
+			var arc_1 = d3.arc()
+				.outerRadius(radius_1 * 0.8)
+				.innerRadius(radius_1 * 0.4);
+			var outer_arc = d3.arc()
+				.innerRadius(radius_1 * 0.9)
+				.outerRadius(radius_1 * 0.9);
+			svg_1.attr("transform","translate("+ 960/2 +"," + 450/2 + ")");
+			var key = function(d){return d.data.label;};
+  			//console.log(Object.keys(data3));
+			var color_1 = d3.scaleOrdinal()
+			//.domain(dataNames1)
+      .domain(Object.keys(data3))
+			.range(d3.schemeDark2)
+
+			function getData(btn){
+				var labels = color_1.domain();
+        // d3.select("#pie_graph").select("svg").select("g").select(".lines").remove();
+        // d3.select("#pie_graph").select("svg").select("g").select(".labels").remove();
+				return labels.map(function(label) {
+          if (btn) return {label: label, value: data4[label]}
+					else return {label: label, value: data3[label]}
+				}).sort(function(a,b) {
+					return d3.ascending(a.label,b.label);
+				});
+			}
+			function mergeWithFirstEqualZero(first, second){
+        console.log(first);
+        console.log(second);
+				var secondSet = d3.set(); second.forEach(function(d) { secondSet.add(d.label); });
+				var onlyFirst = first
+					.filter(function(d){ return !secondSet.has(d.label) })
+					.map(function(d) { return {label: d.label, value: 0}; });
+				return d3.merge([ second, onlyFirst ])
+					.sort(function(a,b) {
+						return d3.ascending(a.label, b.label);
+					});
+			}
+			change(getData(0));
+			function change(data) {
+				var data0 = svg_1.select(".slices").selectAll("path.slice")
+					.data().map(function(d) { return d.data});
+				if (data0.length == 0) data0 = data;
+				var was = mergeWithFirstEqualZero(data, data0);
+        console.log(was);
+				var is = mergeWithFirstEqualZero(data0,data);
+        console.log(is);
+				/* -------- SLICE ARCS --------*/
+
+				var slice = svg_1.select(".slices").selectAll("path.slice")
+					.data(pie_1(was),key);
+				slice.enter()
+					.insert("path")
+					.attr("class","slice")
+					.style("fill",function(d) { return color_1(d.data.label); })
+					.each(function(d) {
+						this.current = d;
+					});
+				slice = svg_1.select(".slices").selectAll("path.slice")
+					.data(pie_1(is),key);
+				
+				slice		
+					.transition().duration(2500)
+					.attrTween("d", function(d) {
+						var interpolate = d3.interpolate(this._current, d);
+						var _this = this;
+						return function(t) {
+							_this._current = interpolate(t);
+							return arc_1(_this._current);
+						};
+					});
+				slice = svg_1.select(".slices").selectAll("path.slice")
+					.data(pie_1(data), key);
+				slice
+					.exit().transition().delay(2500).duration(0).remove();
+				
+				/* ------- TEXT LABELS -------*/
+				
+				var text = svg_1.select(".labels").selectAll("text")
+					.data(pie_1(was), key);
+
+				text.enter()
+					.append("text")
+					.attr("dy", ".35em")
+					.style("opacity", 0)
+					.text(function(d) {
+						return d.data.label;
+					})
+					.each(function(d) {
+						this._current = d;
+					});
+				
+				function midAngle(d){
+					return d.startAngle + (d.endAngle - d.startAngle)/2;
+				}
+
+				text = svg_1.select(".labels").selectAll("text")
+					.data(pie_1(is), key);
+
+				text.transition().duration(2500)
+					.style("opacity", function(d) {
+						return d.data.value == 0 ? 0 : 1;
+					})
+					.attrTween("transform", function(d) {
+						var interpolate = d3.interpolate(this._current, d);
+						var _this = this;
+						return function(t) {
+							var d2 = interpolate(t);
+							_this._current = d2;
+							var pos = outer_arc.centroid(d2);
+							pos[0] = radius_1 * (midAngle(d2) < Math.PI ? 1 : -1);
+							return "translate("+ pos +")";
+						};
+					})
+					.styleTween("text-anchor", function(d){
+						var interpolate = d3.interpolate(this._current, d);
+						return function(t) {
+							var d2 = interpolate(t);
+							return midAngle(d2) < Math.PI ? "start":"end";
+						};
+					});
+				
+				text = svg_1.select(".labels").selectAll("text")
+					.data(pie_1(data), key);
+
+				text
+					.exit().transition().delay(2500)
+					.remove();
+
+				/* ------- SLICE TO TEXT POLYLINES -------*/
+
+				var polyline = svg_1.select(".lines").selectAll("polyline")
+					.data(pie_1(was), key);
+				
+				polyline.enter()
+					.append("polyline")
+					.style("opacity", 0)
+					.each(function(d) {
+						this._current = d;
+					});
+
+				polyline = svg_1.select(".lines").selectAll("polyline")
+					.data(pie_1(is), key);
+				
+				polyline.transition().duration(2500)
+					.style("opacity", function(d) {
+						return d.data.value == 0 ? 0 : .5;
+					})
+					.attrTween("points", function(d){
+						this._current = this._current;
+						var interpolate = d3.interpolate(this._current, d);
+						var _this = this;
+						return function(t) {
+							var d2 = interpolate(t);
+							_this._current = d2;
+							var pos = outer_arc.centroid(d2);
+							pos[0] = radius_1 * 0.95 * (midAngle(d2) < Math.PI ? 1 : -1);
+							return [arc_1.centroid(d2), outer_arc.centroid(d2), pos];
+						};			
+					});
+				
+				polyline = svg_1.select(".lines").selectAll("polyline")
+					.data(pie_1(data), key);
+				
+				polyline
+					.exit().transition().delay(2500)
+					.remove(); 
+			}
+      
+            var color = d3.scaleOrdinal()
+            .domain(["a", "b", "c", "d", "e", "f", "g"])
+            .range(d3.schemeDark2);
+
+            // Define the div for the tooltip
+            var div = d3.select("body").append("div")	
+                .attr("class", "tooltip")				
+                .style("opacity", 0);
+
+            function update(data, btn) {
+            
+              count++;  
+              // Compute the position of each group on the pie:
+              var pie = d3.pie()
+              .value(function(d) {return d.value; })
+              .sort(function(a, b) { console.log(a) ; return d3.ascending(a.key, b.key);} ) // This make sure that group order remains the same in the pie chart
+              var data_ready = pie(d3.entries(data))
+
+              // map to data
+              var u = svg.selectAll("path")
+              .data(data_ready)
+
+              if (btn == 1) {
+                var button = document.getElementById("auto");
+                var other = document.getElementById("manual");
+                button.style.backgroundColor = '#7FFF00';
+                other.style.backgroundColor = '#FFFFFF';
+                //ordinal scale legend
+                var ordinal = d3.scaleOrdinal()
+                .domain(dataNames2)
+                .range(d3.schemeDark2);
+                var svg2 = d3.select("#bar_graph").select("svg");
+                if (count > 1) {
+                  svg2.select(".legendOrdinal").remove();
+                }
+                svg2.append("g")
+                .attr("class","legendOrdinal")
+                .attr("transform","translate(750,150)");
+
+                u
+                .on("mouseover", function(d,i) {
+                  div.transition()
+                  .duration(200)
+                  .style("opacity",.9)
+                  div	.html(dataNames2[i])
+                  .style("left", (d3.event.pageX) - 150 + "px")		
+                  .style("top", (d3.event.pageY) - 50+ "px");
+                })
+                .on("mouseout",function(d) {
+                div.transition()
+                  .duration(500)
+                  .style("opacity",0);
+              });
+                var legendOrdinal = d3.legendColor()
+                //d3 symbol creates a path-string, for example
+                //"M0,-8.059274488676564L9.306048591020996,
+                //8.059274488676564 -9.306048591020996,8.059274488676564Z"
+                .shape("path", d3.symbol().type(d3.symbolTriangle).size(150)())
+                .shapePadding(10)
+                //use cellFilter to hide the "e" cell
+                .cellFilter(function(d){ return d.label !== "e" })
+                .scale(ordinal);
+
+                svg2.select(".legendOrdinal")
+                .call(legendOrdinal);
+              }
+              else {
+                var button = document.getElementById("manual");
+                var other = document.getElementById("auto");
+                button.style.backgroundColor = '#7FFF00';
+                other.style.backgroundColor = '#FFFFFF';
+                //ordinal scale legend
+                var ordinal = d3.scaleOrdinal()
+                .domain(dataNames1)
+                .range(d3.schemeDark2);
+                var svg2 = d3.select("#bar_graph").select("svg");
+                if (count > 1) {
+                  svg2.select(".legendOrdinal").remove();
+                }
+                svg2.append("g")
+                .attr("class","legendOrdinal")
+                .attr("transform","translate(750,150)");
+
+                u
+                .on("mouseover", function(d,i) {
+                  div.transition()
+                  .duration(200)
+                  .style("opacity",.9)
+                  div	.html(dataNames1[i])
+                  .style("left", (d3.event.pageX) - 150 + "px")		
+                  .style("top", (d3.event.pageY) - 50+ "px");
+                })
+                .on("mouseout",function(d) {
+                div.transition()
+                  .duration(500)
+                  .style("opacity",0);
+              });
+
+                var legendOrdinal = d3.legendColor()
+                .shape("path", d3.symbol().type(d3.symbolTriangle).size(150)())
+                .shapePadding(10)
+                //use cellFilter to hide the "e" cell
+                .cellFilter(function(d){ return d.label !== "e" })
+                .scale(ordinal);
+
+                svg2.select(".legendOrdinal")
+                .call(legendOrdinal);
+              }
+
+              // Build the pie chart: Basically, each part of the pie is a path that we build using the arc function.
+              u
+              .enter()
+              .append('path')
+              .merge(u)
+              .transition()
+              .duration(1000)
+              .attr('d', d3.arc()
+                  .innerRadius(0)
+                  .outerRadius(radius)
+              )
+              .attr('fill', function(d){ return(color(d.data.key)) })
+              .attr("stroke", "white")
+              .style("stroke-width", "2px")
+              .style("opacity", 1)
+              u
+              .exit()
+              .remove()
+
+            }
+            // Initialize the plot with the first dataset
+            var count = 0;
+            update(data1,0)
+            update(data1,0)
+
+        </script>
+    </body>
+</html>
