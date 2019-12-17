@@ -1,0 +1,26 @@
+﻿genre,accuracy,coverage
+Electronic,96.2,10.6
+Alt Pop,84.2,25
+Pop Rock,87.5,47
+Indian,96.2,100
+House,100,25
+Dubstep,100,100
+Latin,93.3,46.8
+Reggae,84.6,65
+Hip-Hop,100,76.9
+Classic Rock,85.7,70
+Folk,88.2,65.3
+Gospel,95,64.5
+Modern Pop,100,67.8
+Alt Rock,100,54.5
+Classical ,100,62.5
+Punk ,92,92
+Jazz,100,100
+Ambient,90.9,90.9
+Metal,100,32.3
+Rock N Roll,95.8,57.1
+Blues,94.7,65.5
+Spoken,100,76.1
+Traditional Country,90,100
+Ska,100,50
+Modern Country,71.4,70

@@ -1,0 +1,3039 @@
+isrc,path,value
+USUG11903339,Anatomy/Arrangement,Voice & Music
+USUG11903339,Anatomy/Harmony/Mode,Major
+USUG11903339,Anatomy/Harmony/Root,E
+USUG11903339,Anatomy/Rhythm & Time/Beat Placement,On The Beat
+USUG11903339,Anatomy/Rhythm & Time/BPM,107.11
+USUG11903339,Anatomy/Rhythm & Time/Meter,Simple
+USUG11903339,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11903339,Anatomy/Rhythm & Time/Rhythmic Feel,Automated
+USUG11903339,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11903339,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11903339,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11903339,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11903339,Anatomy/Structure/Dynamic Shape,Dynamic
+USUG11903339,Anatomy/Structure/Form,Song Form
+USUG11903339,Anatomy/Structure/Structural Complexity,Simple Structure
+USUG11903339,Application/Playlist,Time
+USUG11903339,Application/Playlist,Mood
+USUG11903339,Application/Playlist/Mood,Rainy Day
+USUG11903339,Application/Playlist/Mood,Dramatic
+USUG11903339,Application/Playlist/Time,Decade
+USUG11903339,Application/Playlist/Time/Decade,2010s
+USUG11903339,Application/Version,Explicit
+USUG11903339,Application/Version,Studio Version
+USUG11903339,Application/Version,Single Version
+USUG11903339,Energy/Emotion,Positive
+USUG11903339,Energy/Emotion,Negative
+USUG11903339,Energy/Emotion/Attitudes,Dramatic
+USUG11903339,Energy/Emotion/Attitudes,Melodramatic
+USUG11903339,Energy/Emotion/Negative,Angry
+USUG11903339,Energy/Emotion/Positive,Uplifting
+USUG11903339,Energy/Intensity,Medium
+USUG11903339,Energy/Intensity/Medium,Medium-High Intensity
+USUG11903339,Energy/Sound Color,Metallic
+USUG11903339,Energy/Sound Color,Mechanical
+USUG11903339,Energy/Sound Color,Full
+USUG11903339,Genre,Pop
+USUG11903339,Genre/Pop,Modern Pop
+USUG11903339,Genre/Pop,Alternative Pop
+USUG11903339,Genre/Pop/Alternative Pop,Pop Rock
+USUG11903339,Lyrics/Lyric Language/Indo-European,English
+USUG11903339,Lyrics/Lyric Theme,Conflict
+USUG11903339,Lyrics/Lyric Theme,Love
+USUG11903339,Lyrics/Lyric Theme/Conflict,Shame
+USUG11903339,Lyrics/Lyric Theme/Conflict,Stress
+USUG11903339,Lyrics/Lyric Theme/Conflict/Shame,Anxious
+USUG11903339,Lyrics/Lyric Theme/Conflict/Shame,Pain
+USUG11903339,Lyrics/Lyric Theme/Conflict/Shame,Insecure
+USUG11903339,Lyrics/Lyric Theme/Conflict/Shame,Guilt
+USUG11903339,Lyrics/Lyric Theme/Conflict/Shame,Failure
+USUG11903339,Lyrics/Lyric Theme/Conflict/Stress,Difficult
+USUG11903339,Lyrics/Lyric Theme/Conflict/Stress,Burden
+USUG11903339,Lyrics/Lyric Theme/Conflict/Stress,Problems
+USUG11903339,Lyrics/Lyric Theme/Love,Breakup
+USUG11903339,Lyrics/Lyric Theme/Love,Obsession
+USUG11903339,Lyrics/Lyric Theme/Love,Pain
+USUG11903339,Lyrics/Lyric Theme/Love/Breakup,Lost
+USUG11903339,Lyrics/Lyric Theme/Love/Obsession,Can't Get Over
+USUG11903339,Lyrics/Lyric Theme/Love/Pain,In Trouble
+USUG11903339,Origin/Applicable Dates/Originally Released Date,10/18/19
+USUG11903339,Origin/Relevant Location,Europe
+USUG11903339,Origin/Relevant Location/Europe,United Kingdom
+USUG11903339,Origin/Relevant Location/Europe/United Kingdom,England
+USUG11903339,Performance/Ensemble/Ensemble Configuration,Pop Band
+USUG11903339,Performance/Ensemble/Ensemble Section,Percussion
+USUG11903339,Performance/Ensemble/Ensemble Section,String Section
+USUG11903339,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11903339,Performance/Ensemble/Ensemble Section,Choir
+USUG11903339,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11903339,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11903339,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11903339,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11903339,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11903339,Performance/Instrument,Guitar
+USUG11903339,Performance/Instrument,Keyboard
+USUG11903339,Performance/Instrument,Drum Set
+USUG11903339,Performance/Instrument,Drum Machine
+USUG11903339,Performance/Instrument,Synthesizer
+USUG11903339,Performance/Instrument,Instrument Effect
+USUG11903339,Performance/Instrument/Guitar,Electric Guitar
+USUG11903339,Performance/Instrument/Instrument Effect,Compression
+USUG11903339,Performance/Instrument/Instrument Effect,Distortion
+USUG11903339,Performance/Instrument/Instrument Effect,Filtering
+USUG11903339,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11903339,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11903339,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11903339,Performance/Voice,Background Vocals
+USUG11903339,Performance/Voice,Vocal Effect
+USUG11903339,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11903339,Performance/Voice/Lead Vocals,Male
+USUG11903339,Performance/Voice/Vocal Effect,Voice Effects
+USUG11903339,Performance/Voice/Vocal Effect,Distortion
+USUG11903339,Performance/Voice/Vocal Range,Low Vocal Range
+GBUM71904158,Anatomy/Arrangement,Voice & Music
+GBUM71904158,Anatomy/Harmony/Mode,Major
+GBUM71904158,Anatomy/Harmony/Root,Eb/D#
+GBUM71904158,Anatomy/Production,Reverberant
+GBUM71904158,Anatomy/Production,Loop-Based
+GBUM71904158,Anatomy/Rhythm & Time/BPM,69.54
+GBUM71904158,Anatomy/Rhythm & Time/Meter,Simple
+GBUM71904158,Anatomy/Rhythm & Time/Meter/Simple,4
+GBUM71904158,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+GBUM71904158,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+GBUM71904158,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+GBUM71904158,Anatomy/Structure/Form,Song Form
+GBUM71904158,Application/Function,Recognizable Music
+GBUM71904158,Application/Media/Media Evocation,Drama
+GBUM71904158,Application/Media/Media Evocation,Comedy
+GBUM71904158,Application/Media/Media Evocation,Romantic Comedy
+GBUM71904158,Application/Playlist,Activity
+GBUM71904158,Application/Playlist,Mood
+GBUM71904158,Application/Playlist,Time
+GBUM71904158,Application/Playlist/Activity,Dating
+GBUM71904158,Application/Playlist/Activity,Defeat
+GBUM71904158,Application/Playlist/Activity,Road Trip
+GBUM71904158,Application/Playlist/Mood,Nostalgic
+GBUM71904158,Application/Playlist/Time,Decade
+GBUM71904158,Application/Playlist/Time/Decade,2010s
+GBUM71904158,Application/Version,Clean
+GBUM71904158,Energy/Emotion,Negative
+GBUM71904158,Energy/Emotion/Negative,Melancholic
+GBUM71904158,Energy/Emotion/Negative,Pained
+GBUM71904158,Energy/Intensity,Medium
+GBUM71904158,Energy/Intensity/Medium,Medium Intensity
+GBUM71904158,Energy/Sound Color,Balanced
+GBUM71904158,Genre,Electronic
+GBUM71904158,Genre,Pop
+GBUM71904158,Genre/Pop,Electronic Pop
+GBUM71904158,Lyrics/Lyric Language/Indo-European,English
+GBUM71904158,Lyrics/Lyric Theme,Conflict
+GBUM71904158,Lyrics/Lyric Theme,Feelings
+GBUM71904158,Lyrics/Lyric Theme,Love
+GBUM71904158,Lyrics/Lyric Theme/Conflict,Defeat
+GBUM71904158,Lyrics/Lyric Theme/Conflict,Stress
+GBUM71904158,Lyrics/Lyric Theme/Conflict/Stress,Difficult
+GBUM71904158,Lyrics/Lyric Theme/Feelings,Nostalgia
+GBUM71904158,Lyrics/Lyric Theme/Love,Breakup
+GBUM71904158,Lyrics/Lyric Theme/Love,Pain
+GBUM71904158,Lyrics/Lyric Theme/Love/Breakup,Losing You
+GBUM71904158,Lyrics/Lyric Theme/Love/Pain,Heartache
+GBUM71904158,Origin/Applicable Dates/Originally Released Date,2019
+GBUM71904158,Origin/Relevant Location,Europe
+GBUM71904158,Origin/Relevant Location/Europe,United Kingdom
+GBUM71904158,Performance/Instrument,Percussion
+GBUM71904158,Performance/Instrument,Drum Machine
+GBUM71904158,Performance/Instrument,Guitar
+GBUM71904158,Performance/Instrument,Bass
+GBUM71904158,Performance/Instrument,Synthesizer
+GBUM71904158,Performance/Instrument/Bass,Electric Bass Guitar
+GBUM71904158,Performance/Instrument/Guitar,Electric Guitar
+GBUM71904158,Performance/Instrument/Guitar,Acoustic Guitar
+GBUM71904158,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+GBUM71904158,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+GBUM71904158,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+GBUM71904158,Performance/Voice/Lead Vocals,Female
+GBUM71904158,Performance/Voice/Vocal Range,High Vocal Range
+USUM71920250,Anatomy/Arrangement,Voice & Music
+USUM71920250,Anatomy/Harmony/Mode,Major
+USUM71920250,Anatomy/Harmony/Root,Ab/G#
+USUM71920250,Anatomy/Production,Reverberant
+USUM71920250,Anatomy/Production,Loop-Based
+USUM71920250,Anatomy/Rhythm & Time/BPM,123.08
+USUM71920250,Anatomy/Rhythm & Time/Meter,Simple
+USUM71920250,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUM71920250,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUM71920250,Anatomy/Rhythm & Time/Tempo/Speed,Medium Fast
+USUM71920250,Anatomy/Structure/Form,Song Form
+USUM71920250,Application/Function,Recognizable Music
+USUM71920250,Application/Media/Media Evocation,Comedy
+USUM71920250,Application/Media/Media Evocation,Romantic Comedy
+USUM71920250,Application/Playlist,Activity
+USUM71920250,Application/Playlist,Mood
+USUM71920250,Application/Playlist,Time
+USUM71920250,Application/Playlist/Activity,Dancing
+USUM71920250,Application/Playlist/Activity,Party
+USUM71920250,Application/Playlist/Activity,Dating
+USUM71920250,Application/Playlist/Activity,Working Out
+USUM71920250,Application/Playlist/Mood,Confident
+USUM71920250,Application/Playlist/Mood,Feeling Good
+USUM71920250,Application/Playlist/Mood,Free
+USUM71920250,Application/Playlist/Time,Decade
+USUM71920250,Application/Playlist/Time/Decade,2010s
+USUM71920250,Application/Version,Clean
+USUM71920250,Energy/Emotion,Positive
+USUM71920250,Energy/Emotion/Positive,Uplifting
+USUM71920250,Energy/Emotion/Positive,Contented
+USUM71920250,Energy/Intensity,Medium
+USUM71920250,Energy/Intensity/Medium,Medium-High Intensity
+USUM71920250,Energy/Sound Color,Balanced
+USUM71920250,Genre,Electronic
+USUM71920250,Genre,Pop
+USUM71920250,Genre/Pop,Electronic Pop
+USUM71920250,Lyrics/Lyric Language/Indo-European,English
+USUM71920250,Lyrics/Lyric Mood,Confident
+USUM71920250,Lyrics/Lyric Mood,Optimistic
+USUM71920250,Lyrics/Lyric Theme,Consciousness
+USUM71920250,Lyrics/Lyric Theme,Feelings
+USUM71920250,Lyrics/Lyric Theme,Love
+USUM71920250,Lyrics/Lyric Theme/Consciousness,Challenge
+USUM71920250,Lyrics/Lyric Theme/Feelings,Confidence
+USUM71920250,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUM71920250,Lyrics/Lyric Theme/Love,Commitment
+USUM71920250,Lyrics/Lyric Theme/Love/Commitment,Back Together
+USUM71920250,Lyrics/Lyric Theme/Love/Commitment,Holding On
+USUM71920250,Origin/Applicable Dates/Originally Released Date,2019
+USUM71920250,Origin/Relevant Location,North America
+USUM71920250,Origin/Relevant Location/North America,United States
+USUM71920250,Performance/Instrument,Percussion
+USUM71920250,Performance/Instrument,Drum Machine
+USUM71920250,Performance/Instrument,Keyboard
+USUM71920250,Performance/Instrument,Synthesizer
+USUM71920250,Performance/Instrument/Keyboard,Electric Piano
+USUM71920250,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUM71920250,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUM71920250,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUM71920250,Performance/Voice/Lead Vocals,Female
+USUM71920250,Performance/Voice/Vocal Range,High Vocal Range
+GBUM71905142,Anatomy/Arrangement,Voice & Music
+GBUM71905142,Anatomy/Harmony/Mode,Major
+GBUM71905142,Anatomy/Harmony/Root,D
+GBUM71905142,Anatomy/Rhythm & Time/Beat Placement,On The Beat
+GBUM71905142,Anatomy/Rhythm & Time/BPM,166
+GBUM71905142,Anatomy/Rhythm & Time/Meter,Simple
+GBUM71905142,Anatomy/Rhythm & Time/Meter/Simple,4
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Breakbeat Feel
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+GBUM71905142,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+GBUM71905142,Anatomy/Rhythm & Time/Tempo/Speed,Medium Fast
+GBUM71905142,Anatomy/Structure/Dynamic Shape,Steady
+GBUM71905142,Anatomy/Structure/Form,Song Form
+GBUM71905142,Anatomy/Structure/Structural Complexity,Simple Structure
+GBUM71905142,Application/Playlist,Mood
+GBUM71905142,Application/Playlist,Time
+GBUM71905142,Application/Playlist,Activity
+GBUM71905142,Application/Playlist/Activity,Dancing
+GBUM71905142,Application/Playlist/Mood,Anticipation
+GBUM71905142,Application/Playlist/Mood,Energized
+GBUM71905142,Application/Playlist/Mood,Free
+GBUM71905142,Application/Playlist/Time,Decade
+GBUM71905142,Application/Playlist/Time/Decade,2010s
+GBUM71905142,Application/Version,Studio Version
+GBUM71905142,Application/Version,Original
+GBUM71905142,Energy/Emotion,Positive
+GBUM71905142,Energy/Emotion/Positive,Exciting
+GBUM71905142,Energy/Intensity,Medium
+GBUM71905142,Energy/Intensity/Medium,Medium-High Intensity
+GBUM71905142,Energy/Sound Color,Balanced
+GBUM71905142,Energy/Sound Color,Crisp
+GBUM71905142,Genre,Pop
+GBUM71905142,Genre/Pop,Alternative Pop
+GBUM71905142,Lyrics/Lyric Language/Indo-European,English
+GBUM71905142,Lyrics/Lyric Mood,Pessimistic
+GBUM71905142,Lyrics/Lyric Technique,Repetition
+GBUM71905142,Lyrics/Lyric Theme,Feelings
+GBUM71905142,Lyrics/Lyric Theme,Motion
+GBUM71905142,Lyrics/Lyric Theme/Feelings,Gratitude
+GBUM71905142,Lyrics/Lyric Theme/Feelings,Confidence
+GBUM71905142,Lyrics/Lyric Theme/Feelings/Confidence,Hope
+GBUM71905142,Lyrics/Lyric Theme/Feelings/Gratitude,Help
+GBUM71905142,Lyrics/Lyric Theme/Motion,Action
+GBUM71905142,Lyrics/Lyric Theme/Motion/Action,Relax
+GBUM71905142,Origin/Applicable Dates/Originally Released Date,2020-01
+GBUM71905142,Origin/Relevant Location,Europe
+GBUM71905142,Origin/Relevant Location/Europe,Bailiwick of Guernsey
+GBUM71905142,Origin/Relevant Location/Europe,United Kingdom
+GBUM71905142,Performance/Ensemble/Ensemble Timbre,Electric
+GBUM71905142,Performance/Instrument,Bass
+GBUM71905142,Performance/Instrument,Drum Machine
+GBUM71905142,Performance/Instrument,Guitar
+GBUM71905142,Performance/Instrument,Strings
+GBUM71905142,Performance/Instrument,Wind
+GBUM71905142,Performance/Instrument,Synthesizer
+GBUM71905142,Performance/Instrument/Bass,Electric Bass Guitar
+GBUM71905142,Performance/Instrument/Guitar,Electric Guitar
+GBUM71905142,Performance/Instrument/Wind,Saxophone
+GBUM71905142,Performance/Instrument/Wind/Saxophone,Baritone Saxophone
+GBUM71905142,Performance/Voice,Background Vocals
+GBUM71905142,Performance/Voice/Background Vocals,Male Backgrounds
+GBUM71905142,Performance/Voice/Lead Vocals,Male
+GBUM71905142,Performance/Voice/Vocal Range,Low Vocal Range
+GBUM71905142,Anatomy/Arrangement,Voice & Music
+GBUM71905142,Anatomy/Harmony/Mode,Major
+GBUM71905142,Anatomy/Harmony/Root,D
+GBUM71905142,Anatomy/Rhythm & Time/Beat Placement,On The Beat
+GBUM71905142,Anatomy/Rhythm & Time/BPM,166
+GBUM71905142,Anatomy/Rhythm & Time/Meter,Simple
+GBUM71905142,Anatomy/Rhythm & Time/Meter/Simple,4
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Breakbeat Feel
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+GBUM71905142,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+GBUM71905142,Anatomy/Rhythm & Time/Tempo/Speed,Medium Fast
+GBUM71905142,Anatomy/Structure/Dynamic Shape,Steady
+GBUM71905142,Anatomy/Structure/Form,Song Form
+GBUM71905142,Anatomy/Structure/Structural Complexity,Simple Structure
+GBUM71905142,Application/Playlist,Mood
+GBUM71905142,Application/Playlist,Time
+GBUM71905142,Application/Playlist,Activity
+GBUM71905142,Application/Playlist/Activity,Dancing
+GBUM71905142,Application/Playlist/Mood,Anticipation
+GBUM71905142,Application/Playlist/Mood,Energized
+GBUM71905142,Application/Playlist/Mood,Free
+GBUM71905142,Application/Playlist/Time,Decade
+GBUM71905142,Application/Playlist/Time/Decade,2010s
+GBUM71905142,Application/Version,Studio Version
+GBUM71905142,Application/Version,Original
+GBUM71905142,Energy/Emotion,Positive
+GBUM71905142,Energy/Emotion/Positive,Exciting
+GBUM71905142,Energy/Intensity,Medium
+GBUM71905142,Energy/Intensity/Medium,Medium-High Intensity
+GBUM71905142,Energy/Sound Color,Balanced
+GBUM71905142,Energy/Sound Color,Crisp
+GBUM71905142,Genre,Pop
+GBUM71905142,Genre/Pop,Alternative Pop
+GBUM71905142,Lyrics/Lyric Language/Indo-European,English
+GBUM71905142,Lyrics/Lyric Mood,Pessimistic
+GBUM71905142,Lyrics/Lyric Technique,Repetition
+GBUM71905142,Lyrics/Lyric Theme,Feelings
+GBUM71905142,Lyrics/Lyric Theme,Motion
+GBUM71905142,Lyrics/Lyric Theme/Feelings,Gratitude
+GBUM71905142,Lyrics/Lyric Theme/Feelings,Confidence
+GBUM71905142,Lyrics/Lyric Theme/Feelings/Confidence,Hope
+GBUM71905142,Lyrics/Lyric Theme/Feelings/Gratitude,Help
+GBUM71905142,Lyrics/Lyric Theme/Motion,Action
+GBUM71905142,Lyrics/Lyric Theme/Motion/Action,Relax
+GBUM71905142,Origin/Applicable Dates/Originally Released Date,2020-01
+GBUM71905142,Origin/Relevant Location,Europe
+GBUM71905142,Origin/Relevant Location/Europe,Bailiwick of Guernsey
+GBUM71905142,Origin/Relevant Location/Europe,United Kingdom
+GBUM71905142,Performance/Ensemble/Ensemble Timbre,Electric
+GBUM71905142,Performance/Instrument,Bass
+GBUM71905142,Performance/Instrument,Drum Machine
+GBUM71905142,Performance/Instrument,Guitar
+GBUM71905142,Performance/Instrument,Strings
+GBUM71905142,Performance/Instrument,Wind
+GBUM71905142,Performance/Instrument,Synthesizer
+GBUM71905142,Performance/Instrument/Bass,Electric Bass Guitar
+GBUM71905142,Performance/Instrument/Guitar,Electric Guitar
+GBUM71905142,Performance/Instrument/Wind,Saxophone
+GBUM71905142,Performance/Instrument/Wind/Saxophone,Baritone Saxophone
+GBUM71905142,Performance/Voice,Background Vocals
+GBUM71905142,Performance/Voice/Background Vocals,Male Backgrounds
+GBUM71905142,Performance/Voice/Lead Vocals,Male
+GBUM71905142,Performance/Voice/Vocal Range,Low Vocal Range
+GBUM71905142,Anatomy/Arrangement,Voice & Music
+GBUM71905142,Anatomy/Harmony/Mode,Major
+GBUM71905142,Anatomy/Harmony/Root,D
+GBUM71905142,Anatomy/Rhythm & Time/Beat Placement,On The Beat
+GBUM71905142,Anatomy/Rhythm & Time/BPM,166
+GBUM71905142,Anatomy/Rhythm & Time/Meter,Simple
+GBUM71905142,Anatomy/Rhythm & Time/Meter/Simple,4
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Breakbeat Feel
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+GBUM71905142,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+GBUM71905142,Anatomy/Rhythm & Time/Tempo/Speed,Medium Fast
+GBUM71905142,Anatomy/Structure/Dynamic Shape,Steady
+GBUM71905142,Anatomy/Structure/Form,Song Form
+GBUM71905142,Anatomy/Structure/Structural Complexity,Simple Structure
+GBUM71905142,Application/Playlist,Mood
+GBUM71905142,Application/Playlist,Time
+GBUM71905142,Application/Playlist,Activity
+GBUM71905142,Application/Playlist/Activity,Dancing
+GBUM71905142,Application/Playlist/Mood,Anticipation
+GBUM71905142,Application/Playlist/Mood,Energized
+GBUM71905142,Application/Playlist/Mood,Free
+GBUM71905142,Application/Playlist/Time,Decade
+GBUM71905142,Application/Playlist/Time/Decade,2010s
+GBUM71905142,Application/Version,Studio Version
+GBUM71905142,Application/Version,Original
+GBUM71905142,Energy/Emotion,Positive
+GBUM71905142,Energy/Emotion/Positive,Exciting
+GBUM71905142,Energy/Intensity,Medium
+GBUM71905142,Energy/Intensity/Medium,Medium-High Intensity
+GBUM71905142,Energy/Sound Color,Balanced
+GBUM71905142,Energy/Sound Color,Crisp
+GBUM71905142,Genre,Pop
+GBUM71905142,Genre/Pop,Alternative Pop
+GBUM71905142,Lyrics/Lyric Language/Indo-European,English
+GBUM71905142,Lyrics/Lyric Mood,Pessimistic
+GBUM71905142,Lyrics/Lyric Technique,Repetition
+GBUM71905142,Lyrics/Lyric Theme,Feelings
+GBUM71905142,Lyrics/Lyric Theme,Motion
+GBUM71905142,Lyrics/Lyric Theme/Feelings,Gratitude
+GBUM71905142,Lyrics/Lyric Theme/Feelings,Confidence
+GBUM71905142,Lyrics/Lyric Theme/Feelings/Confidence,Hope
+GBUM71905142,Lyrics/Lyric Theme/Feelings/Gratitude,Help
+GBUM71905142,Lyrics/Lyric Theme/Motion,Action
+GBUM71905142,Lyrics/Lyric Theme/Motion/Action,Relax
+GBUM71905142,Origin/Applicable Dates/Originally Released Date,2020-01
+GBUM71905142,Origin/Relevant Location,Europe
+GBUM71905142,Origin/Relevant Location/Europe,Bailiwick of Guernsey
+GBUM71905142,Origin/Relevant Location/Europe,United Kingdom
+GBUM71905142,Performance/Ensemble/Ensemble Timbre,Electric
+GBUM71905142,Performance/Instrument,Bass
+GBUM71905142,Performance/Instrument,Drum Machine
+GBUM71905142,Performance/Instrument,Guitar
+GBUM71905142,Performance/Instrument,Strings
+GBUM71905142,Performance/Instrument,Wind
+GBUM71905142,Performance/Instrument,Synthesizer
+GBUM71905142,Performance/Instrument/Bass,Electric Bass Guitar
+GBUM71905142,Performance/Instrument/Guitar,Electric Guitar
+GBUM71905142,Performance/Instrument/Wind,Saxophone
+GBUM71905142,Performance/Instrument/Wind/Saxophone,Baritone Saxophone
+GBUM71905142,Performance/Voice,Background Vocals
+GBUM71905142,Performance/Voice/Background Vocals,Male Backgrounds
+GBUM71905142,Performance/Voice/Lead Vocals,Male
+GBUM71905142,Performance/Voice/Vocal Range,Low Vocal Range
+GBUM71905142,Anatomy/Arrangement,Voice & Music
+GBUM71905142,Anatomy/Harmony/Mode,Major
+GBUM71905142,Anatomy/Harmony/Root,D
+GBUM71905142,Anatomy/Rhythm & Time/Beat Placement,On The Beat
+GBUM71905142,Anatomy/Rhythm & Time/BPM,166
+GBUM71905142,Anatomy/Rhythm & Time/Meter,Simple
+GBUM71905142,Anatomy/Rhythm & Time/Meter/Simple,4
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Breakbeat Feel
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+GBUM71905142,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+GBUM71905142,Anatomy/Rhythm & Time/Tempo/Speed,Medium Fast
+GBUM71905142,Anatomy/Structure/Dynamic Shape,Steady
+GBUM71905142,Anatomy/Structure/Form,Song Form
+GBUM71905142,Anatomy/Structure/Structural Complexity,Simple Structure
+GBUM71905142,Application/Playlist,Mood
+GBUM71905142,Application/Playlist,Time
+GBUM71905142,Application/Playlist,Activity
+GBUM71905142,Application/Playlist/Activity,Dancing
+GBUM71905142,Application/Playlist/Mood,Anticipation
+GBUM71905142,Application/Playlist/Mood,Energized
+GBUM71905142,Application/Playlist/Mood,Free
+GBUM71905142,Application/Playlist/Time,Decade
+GBUM71905142,Application/Playlist/Time/Decade,2010s
+GBUM71905142,Application/Version,Studio Version
+GBUM71905142,Application/Version,Original
+GBUM71905142,Energy/Emotion,Positive
+GBUM71905142,Energy/Emotion/Positive,Exciting
+GBUM71905142,Energy/Intensity,Medium
+GBUM71905142,Energy/Intensity/Medium,Medium-High Intensity
+GBUM71905142,Energy/Sound Color,Balanced
+GBUM71905142,Energy/Sound Color,Crisp
+GBUM71905142,Genre,Pop
+GBUM71905142,Genre/Pop,Alternative Pop
+GBUM71905142,Lyrics/Lyric Language/Indo-European,English
+GBUM71905142,Lyrics/Lyric Mood,Pessimistic
+GBUM71905142,Lyrics/Lyric Technique,Repetition
+GBUM71905142,Lyrics/Lyric Theme,Feelings
+GBUM71905142,Lyrics/Lyric Theme,Motion
+GBUM71905142,Lyrics/Lyric Theme/Feelings,Gratitude
+GBUM71905142,Lyrics/Lyric Theme/Feelings,Confidence
+GBUM71905142,Lyrics/Lyric Theme/Feelings/Confidence,Hope
+GBUM71905142,Lyrics/Lyric Theme/Feelings/Gratitude,Help
+GBUM71905142,Lyrics/Lyric Theme/Motion,Action
+GBUM71905142,Lyrics/Lyric Theme/Motion/Action,Relax
+GBUM71905142,Origin/Applicable Dates/Originally Released Date,2020-01
+GBUM71905142,Origin/Relevant Location,Europe
+GBUM71905142,Origin/Relevant Location/Europe,Bailiwick of Guernsey
+GBUM71905142,Origin/Relevant Location/Europe,United Kingdom
+GBUM71905142,Performance/Ensemble/Ensemble Timbre,Electric
+GBUM71905142,Performance/Instrument,Bass
+GBUM71905142,Performance/Instrument,Drum Machine
+GBUM71905142,Performance/Instrument,Guitar
+GBUM71905142,Performance/Instrument,Strings
+GBUM71905142,Performance/Instrument,Wind
+GBUM71905142,Performance/Instrument,Synthesizer
+GBUM71905142,Performance/Instrument/Bass,Electric Bass Guitar
+GBUM71905142,Performance/Instrument/Guitar,Electric Guitar
+GBUM71905142,Performance/Instrument/Wind,Saxophone
+GBUM71905142,Performance/Instrument/Wind/Saxophone,Baritone Saxophone
+GBUM71905142,Performance/Voice,Background Vocals
+GBUM71905142,Performance/Voice/Background Vocals,Male Backgrounds
+GBUM71905142,Performance/Voice/Lead Vocals,Male
+GBUM71905142,Performance/Voice/Vocal Range,Low Vocal Range
+GBUM71905142,Anatomy/Arrangement,Voice & Music
+GBUM71905142,Anatomy/Harmony/Mode,Major
+GBUM71905142,Anatomy/Harmony/Root,D
+GBUM71905142,Anatomy/Rhythm & Time/Beat Placement,On The Beat
+GBUM71905142,Anatomy/Rhythm & Time/BPM,166
+GBUM71905142,Anatomy/Rhythm & Time/Meter,Simple
+GBUM71905142,Anatomy/Rhythm & Time/Meter/Simple,4
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Breakbeat Feel
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+GBUM71905142,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+GBUM71905142,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+GBUM71905142,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+GBUM71905142,Anatomy/Rhythm & Time/Tempo/Speed,Medium Fast
+GBUM71905142,Anatomy/Structure/Dynamic Shape,Steady
+GBUM71905142,Anatomy/Structure/Form,Song Form
+GBUM71905142,Anatomy/Structure/Structural Complexity,Simple Structure
+GBUM71905142,Application/Playlist,Mood
+GBUM71905142,Application/Playlist,Time
+GBUM71905142,Application/Playlist,Activity
+GBUM71905142,Application/Playlist/Activity,Dancing
+GBUM71905142,Application/Playlist/Mood,Anticipation
+GBUM71905142,Application/Playlist/Mood,Energized
+GBUM71905142,Application/Playlist/Mood,Free
+GBUM71905142,Application/Playlist/Time,Decade
+GBUM71905142,Application/Playlist/Time/Decade,2010s
+GBUM71905142,Application/Version,Studio Version
+GBUM71905142,Application/Version,Original
+GBUM71905142,Energy/Emotion,Positive
+GBUM71905142,Energy/Emotion/Positive,Exciting
+GBUM71905142,Energy/Intensity,Medium
+GBUM71905142,Energy/Intensity/Medium,Medium-High Intensity
+GBUM71905142,Energy/Sound Color,Balanced
+GBUM71905142,Energy/Sound Color,Crisp
+GBUM71905142,Genre,Pop
+GBUM71905142,Genre/Pop,Alternative Pop
+GBUM71905142,Lyrics/Lyric Language/Indo-European,English
+GBUM71905142,Lyrics/Lyric Mood,Pessimistic
+GBUM71905142,Lyrics/Lyric Technique,Repetition
+GBUM71905142,Lyrics/Lyric Theme,Feelings
+GBUM71905142,Lyrics/Lyric Theme,Motion
+GBUM71905142,Lyrics/Lyric Theme/Feelings,Gratitude
+GBUM71905142,Lyrics/Lyric Theme/Feelings,Confidence
+GBUM71905142,Lyrics/Lyric Theme/Feelings/Confidence,Hope
+GBUM71905142,Lyrics/Lyric Theme/Feelings/Gratitude,Help
+GBUM71905142,Lyrics/Lyric Theme/Motion,Action
+GBUM71905142,Lyrics/Lyric Theme/Motion/Action,Relax
+GBUM71905142,Origin/Applicable Dates/Originally Released Date,2020-01
+GBUM71905142,Origin/Relevant Location,Europe
+GBUM71905142,Origin/Relevant Location/Europe,Bailiwick of Guernsey
+GBUM71905142,Origin/Relevant Location/Europe,United Kingdom
+GBUM71905142,Performance/Ensemble/Ensemble Timbre,Electric
+GBUM71905142,Performance/Instrument,Bass
+GBUM71905142,Performance/Instrument,Drum Machine
+GBUM71905142,Performance/Instrument,Guitar
+GBUM71905142,Performance/Instrument,Strings
+GBUM71905142,Performance/Instrument,Wind
+GBUM71905142,Performance/Instrument,Synthesizer
+GBUM71905142,Performance/Instrument/Bass,Electric Bass Guitar
+GBUM71905142,Performance/Instrument/Guitar,Electric Guitar
+GBUM71905142,Performance/Instrument/Wind,Saxophone
+GBUM71905142,Performance/Instrument/Wind/Saxophone,Baritone Saxophone
+GBUM71905142,Performance/Voice,Background Vocals
+GBUM71905142,Performance/Voice/Background Vocals,Male Backgrounds
+GBUM71905142,Performance/Voice/Lead Vocals,Male
+GBUM71905142,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11903412,Anatomy/Arrangement,Voice & Music
+USUG11903412,Anatomy/Harmony/Mode,Major
+USUG11903412,Anatomy/Harmony/Root,Eb/D#
+USUG11903412,Anatomy/Rhythm & Time/Beat Placement,On The Beat
+USUG11903412,Anatomy/Rhythm & Time/BPM,120.04
+USUG11903412,Anatomy/Rhythm & Time/Meter,Simple
+USUG11903412,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11903412,Anatomy/Rhythm & Time/Rhythmic Feel,Automated
+USUG11903412,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11903412,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11903412,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11903412,Anatomy/Structure/Dynamic Shape,Steady
+USUG11903412,Anatomy/Structure/Form,Song Form
+USUG11903412,Anatomy/Structure/Structural Complexity,Simple Structure
+USUG11903412,Application/Function,Dance Music
+USUG11903412,Application/Playlist,Time
+USUG11903412,Application/Playlist,Mood
+USUG11903412,Application/Playlist/Mood,Romantic
+USUG11903412,Application/Playlist/Mood,Low-Key
+USUG11903412,Application/Playlist/Mood,Mellow
+USUG11903412,Application/Playlist/Mood,Feeling Good
+USUG11903412,Application/Playlist/Time,Decade
+USUG11903412,Application/Playlist/Time/Decade,2010s
+USUG11903412,Application/Version,Clean
+USUG11903412,Application/Version,Studio Version
+USUG11903412,Application/Version,Remix
+USUG11903412,Energy/Emotion,Positive
+USUG11903412,Energy/Emotion/Attitudes,Lighthearted
+USUG11903412,Energy/Emotion/Positive,Uplifting
+USUG11903412,Energy/Emotion/Positive,Contented
+USUG11903412,Energy/Intensity,Medium
+USUG11903412,Energy/Intensity/Medium,Medium-High Intensity
+USUG11903412,Energy/Sound Color,Airy
+USUG11903412,Energy/Sound Color,Full
+USUG11903412,Energy/Sound Color,Cold
+USUG11903412,Genre,Electronic
+USUG11903412,Genre/Electronic,House
+USUG11903412,Genre/Electronic/House,French House
+USUG11903412,Lyrics/Lyric Language/Indo-European,English
+USUG11903412,Lyrics/Lyric Theme,Love
+USUG11903412,Lyrics/Lyric Theme/Love,Romantic
+USUG11903412,Lyrics/Lyric Theme/Love,Temptation
+USUG11903412,Lyrics/Lyric Theme/Love,Commitment
+USUG11903412,Lyrics/Lyric Theme/Love/Commitment,Togetherness
+USUG11903412,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11903412,Lyrics/Lyric Theme/Love/Romantic,Falling In Love
+USUG11903412,Lyrics/Lyric Theme/Love/Temptation,Flirt
+USUG11903412,Origin/Applicable Dates/Originally Released Date,9/27/19
+USUG11903412,Origin/Relevant Location,Europe
+USUG11903412,Origin/Relevant Location/Europe,France
+USUG11903412,Performance/Ensemble/Ensemble Section,Percussion
+USUG11903412,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11903412,Performance/Ensemble/Ensemble Section,String Section
+USUG11903412,Performance/Ensemble/Ensemble Section,Choir
+USUG11903412,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11903412,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11903412,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11903412,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11903412,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11903412,Performance/Instrument,Drum Machine
+USUG11903412,Performance/Instrument,Synthesizer
+USUG11903412,Performance/Instrument,Instrument Effect
+USUG11903412,Performance/Instrument/Instrument Effect,Compression
+USUG11903412,Performance/Instrument/Instrument Effect,Delay
+USUG11903412,Performance/Instrument/Instrument Effect,Filtering
+USUG11903412,Performance/Instrument/Instrument Effect,Reverb
+USUG11903412,Performance/Instrument/Instrument Effect,Modulation
+USUG11903412,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11903412,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11903412,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11903412,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11903412,Performance/Voice,Background Vocals
+USUG11903412,Performance/Voice,Vocal Effect
+USUG11903412,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11903412,Performance/Voice/Lead Vocals,Male
+USUG11903412,Performance/Voice/Vocal Effect,Voice Effects
+USUG11903412,Performance/Voice/Vocal Effect,Vocoder
+USUG11903412,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11903207,Anatomy/Arrangement,Voice & Music
+USUG11903207,Anatomy/Rhythm & Time/BPM,159.79
+USUG11903207,Anatomy/Rhythm & Time/Meter,Simple
+USUG11903207,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11903207,Anatomy/Rhythm & Time/Tempo/Speed,Fast
+USUG11903207,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11903207,Performance/Voice/Lead Vocals,Male
+USUG11903207,Performance/Voice/Vocal Arrangement,Duet
+USUG11903207,Performance/Voice/Vocal Arrangement,Alternating
+USUG11903207,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11903207,Anatomy/Arrangement,Voice & Music
+USUG11903207,Anatomy/Harmony/Mode,Major
+USUG11903207,Anatomy/Harmony/Root,Gb/F#
+USUG11903207,Anatomy/Rhythm & Time/BPM,159.79
+USUG11903207,Anatomy/Rhythm & Time/Meter,Simple
+USUG11903207,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11903207,Anatomy/Rhythm & Time/Tempo/Speed,Fast
+USUG11903207,Application/Playlist,Time
+USUG11903207,Application/Playlist,Mood
+USUG11903207,Application/Playlist/Mood,Feeling Down
+USUG11903207,Application/Playlist/Mood,Dramatic
+USUG11903207,Application/Playlist/Time,Decade
+USUG11903207,Application/Playlist/Time/Decade,2010s
+USUG11903207,Application/Version,Studio Version
+USUG11903207,Application/Version,Single Version
+USUG11903207,Energy/Emotion,Negative
+USUG11903207,Energy/Emotion,Positive
+USUG11903207,Energy/Emotion/Attitudes,Melodramatic
+USUG11903207,Energy/Emotion/Negative,Pained
+USUG11903207,Energy/Emotion/Positive,Exciting
+USUG11903207,Energy/Intensity,High
+USUG11903207,Energy/Intensity/High,High Intensity
+USUG11903207,Energy/Sound Color,Harsh
+USUG11903207,Energy/Sound Color,Metallic
+USUG11903207,Energy/Sound Color,Mechanical
+USUG11903207,Genre,Pop
+USUG11903207,Genre,Hip-Hop
+USUG11903207,Genre/Hip-Hop,Trap
+USUG11903207,Genre/Pop,Alternative Pop
+USUG11903207,Genre/Pop,Modern Pop
+USUG11903207,Genre/Pop/Alternative Pop,Pop Rock
+USUG11903207,Lyrics/Lyric Language/Indo-European,English
+USUG11903207,Lyrics/Lyric Theme,Conflict
+USUG11903207,Lyrics/Lyric Theme/Conflict,Shame
+USUG11903207,Lyrics/Lyric Theme/Conflict/Shame,Insecure
+USUG11903207,Lyrics/Lyric Theme/Conflict/Shame,Alienation
+USUG11903207,Lyrics/Lyric Theme/Conflict/Shame,Anxious
+USUG11903207,Lyrics/Lyric Theme/Conflict/Shame,Identity Crisis
+USUG11903207,Lyrics/Lyric Theme/Conflict/Shame,Pain
+USUG11903207,Lyrics/Lyric Theme/Conflict/Shame,Sad
+USUG11903207,Origin/Applicable Dates/Originally Released Date,10/9/19
+USUG11903207,Origin/Relevant Location,North America
+USUG11903207,Origin/Relevant Location,Europe
+USUG11903207,Origin/Relevant Location/Europe,United Kingdom
+USUG11903207,Origin/Relevant Location/Europe/United Kingdom,England
+USUG11903207,Origin/Relevant Location/North America,United States
+USUG11903207,Performance/Ensemble/Ensemble Section,Percussion
+USUG11903207,Performance/Ensemble/Ensemble Section,String Section
+USUG11903207,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11903207,Performance/Ensemble/Ensemble Section,Choir
+USUG11903207,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11903207,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11903207,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11903207,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11903207,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11903207,Performance/Instrument,Drum Machine
+USUG11903207,Performance/Instrument,Drum Set
+USUG11903207,Performance/Instrument,Synthesizer
+USUG11903207,Performance/Instrument,Instrument Effect
+USUG11903207,Performance/Instrument,Guitar
+USUG11903207,Performance/Instrument/Guitar,Acoustic Guitar
+USUG11903207,Performance/Instrument/Instrument Effect,Compression
+USUG11903207,Performance/Instrument/Instrument Effect,Distortion
+USUG11903207,Performance/Instrument/Instrument Effect,Modulation
+USUG11903207,Performance/Instrument/Instrument Effect,Filtering
+USUG11903207,Performance/Instrument/Instrument Effect,Sampling
+USUG11903207,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11903207,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11903207,Performance/Voice,Background Vocals
+USUG11903207,Performance/Voice,Vocal Effect
+USUG11903207,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11903207,Performance/Voice/Lead Vocals,Male
+USUG11903207,Performance/Voice/Vocal Arrangement,Duet
+USUG11903207,Performance/Voice/Vocal Arrangement,Alternating
+USUG11903207,Performance/Voice/Vocal Effect,Distortion
+USUG11903207,Performance/Voice/Vocal Effect,Voice Effects
+USUG11903207,Performance/Voice/Vocal Effect,Vocoder
+USUG11903207,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11903207,Performance/Voice/Vocal Technique,Scream
+USUG11903207,Performance/Voice/Vocal Technique,Vocal Strain
+USUG11902577,Anatomy/Arrangement,Voice & Music
+USUG11902577,Anatomy/Harmony/Mode,Major
+USUG11902577,Anatomy/Harmony/Root,D
+USUG11902577,Anatomy/Rhythm & Time/Beat Placement,On The Beat
+USUG11902577,Anatomy/Rhythm & Time/BPM,76.96
+USUG11902577,Anatomy/Rhythm & Time/Meter,Simple
+USUG11902577,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11902577,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11902577,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11902577,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11902577,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11902577,Anatomy/Structure/Dynamic Shape,Dynamic
+USUG11902577,Anatomy/Structure/Form,Song Form
+USUG11902577,Anatomy/Structure/Structural Complexity,Simple Structure
+USUG11902577,Anatomy/Structure/Structural Complexity/Simple Structure,Repetitive
+USUG11902577,Application/Playlist,Mood
+USUG11902577,Application/Playlist,Time
+USUG11902577,Application/Playlist/Mood,Empowered
+USUG11902577,Application/Playlist/Time,Decade
+USUG11902577,Application/Playlist/Time/Decade,2010s
+USUG11902577,Application/Version,Studio Version
+USUG11902577,Application/Version,Single Version
+USUG11902577,Energy/Emotion,Positive
+USUG11902577,Energy/Emotion,Negative
+USUG11902577,Energy/Emotion/Attitudes,Anthemic
+USUG11902577,Energy/Emotion/Attitudes,Dramatic
+USUG11902577,Energy/Emotion/Negative,Pained
+USUG11902577,Energy/Emotion/Positive,Uplifting
+USUG11902577,Energy/Intensity,High
+USUG11902577,Energy/Intensity/High,Highest Intensity
+USUG11902577,Energy/Sound Color,Harsh
+USUG11902577,Energy/Sound Color,Full
+USUG11902577,Energy/Sound Color,Metallic
+USUG11902577,Genre,Pop
+USUG11902577,Genre/Pop,Alternative Pop
+USUG11902577,Genre/Pop/Alternative Pop,Pop Rock
+USUG11902577,Lyrics/Lyric Language/Indo-European,English
+USUG11902577,Lyrics/Lyric Theme,People
+USUG11902577,Lyrics/Lyric Theme,Feelings
+USUG11902577,Lyrics/Lyric Theme,Conflict
+USUG11902577,Lyrics/Lyric Theme/Conflict,Shame
+USUG11902577,Lyrics/Lyric Theme/Conflict,Stress
+USUG11902577,Lyrics/Lyric Theme/Conflict/Shame,Insecure
+USUG11902577,Lyrics/Lyric Theme/Conflict/Shame,Hide
+USUG11902577,Lyrics/Lyric Theme/Conflict/Shame,Identity Crisis
+USUG11902577,Lyrics/Lyric Theme/Conflict/Stress,Problems
+USUG11902577,Lyrics/Lyric Theme/Conflict/Stress,Dissatisfaction
+USUG11902577,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11902577,Lyrics/Lyric Theme/Feelings/Confidence,Empowered
+USUG11902577,Lyrics/Lyric Theme/Feelings/Confidence,Hope
+USUG11902577,Lyrics/Lyric Theme/People,Identity
+USUG11902577,Lyrics/Lyric Theme/People,Youth
+USUG11902577,Origin/Applicable Dates/Originally Released Date,7/29/19
+USUG11902577,Origin/Relevant Location,Europe
+USUG11902577,Origin/Relevant Location/Europe,United Kingdom
+USUG11902577,Origin/Relevant Location/Europe/United Kingdom,England
+USUG11902577,Performance/Ensemble/Ensemble Section,String Section
+USUG11902577,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11902577,Performance/Ensemble/Ensemble Section,Percussion
+USUG11902577,Performance/Ensemble/Ensemble Section,Choir
+USUG11902577,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11902577,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11902577,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11902577,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11902577,Performance/Ensemble/Ensemble Timbre,Electric
+USUG11902577,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11902577,Performance/Instrument,Guitar
+USUG11902577,Performance/Instrument,Synthesizer
+USUG11902577,Performance/Instrument,Drum Set
+USUG11902577,Performance/Instrument,Drum Machine
+USUG11902577,Performance/Instrument,Instrument Effect
+USUG11902577,Performance/Instrument/Guitar,Electric Guitar
+USUG11902577,Performance/Instrument/Instrument Effect,Compression
+USUG11902577,Performance/Instrument/Instrument Effect,Distortion
+USUG11902577,Performance/Instrument/Instrument Effect,Filtering
+USUG11902577,Performance/Instrument/Instrument Effect,Reverb
+USUG11902577,Performance/Instrument/Instrument Effect,Modulation
+USUG11902577,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11902577,Performance/Voice/Lead Vocals,Male
+USUG11902577,Performance/Voice/Vocal Range,Low Vocal Range
+USUM71920252,Anatomy/Harmony/Root,C
+USUM71920252,Anatomy/Rhythm & Time/BPM,104.1
+USUM71920252,Anatomy/Rhythm & Time/Meter,Simple
+USUM71920252,Anatomy/Rhythm & Time/Meter/Simple,4
+USUM71920252,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUM71920252,Application/Playlist,Mood
+USUM71920252,Application/Playlist,Time
+USUM71920252,Application/Playlist/Mood,Confident
+USUM71920252,Application/Playlist/Mood,Energized
+USUM71920252,Application/Playlist/Time,Decade
+USUM71920252,Application/Playlist/Time/Decade,2010s
+USUM71920252,Application/Version,Clean
+USUM71920252,Energy/Emotion,Positive
+USUM71920252,Energy/Emotion,Negative
+USUM71920252,Energy/Emotion/Attitudes,Passionate
+USUM71920252,Energy/Emotion/Negative,Melancholic
+USUM71920252,Energy/Emotion/Negative,Pained
+USUM71920252,Energy/Emotion/Positive,Uplifting
+USUM71920252,Energy/Intensity,Medium
+USUM71920252,Energy/Intensity/Medium,Medium-High Intensity
+USUM71920252,Energy/Sound Color,Balanced
+USUM71920252,Genre,Electronic
+USUM71920252,Genre,Pop
+USUM71920252,Genre/Pop,Electronic Pop
+USUM71920252,Lyrics/Lyric Language/Indo-European,English
+USUM71920252,Lyrics/Lyric Theme,Conflict
+USUM71920252,Lyrics/Lyric Theme,Love
+USUM71920252,Lyrics/Lyric Theme/Conflict,Defeat
+USUM71920252,Lyrics/Lyric Theme/Love,Pain
+USUM71920252,Lyrics/Lyric Theme/Love,Breakup
+USUM71920252,Lyrics/Lyric Theme/Love/Breakup,Losing You
+USUM71920252,Lyrics/Lyric Theme/Love/Breakup,Missing You
+USUM71920252,Lyrics/Lyric Theme/Love/Breakup,Should Have Said
+USUM71920252,Lyrics/Lyric Theme/Love/Pain,Heartache
+USUM71920252,Origin/Applicable Dates/Originally Released Date,2019
+USUM71920252,Origin/Relevant Location,North America
+USUM71920252,Origin/Relevant Location/North America,United States
+USUM71920252,Performance/Instrument,Percussion
+USUM71920252,Performance/Voice/Lead Vocals,Male
+USUM71920252,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion,Attitude
+USUG11901580,Energy/Emotion/Attitude,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion,Attitude
+USUG11901580,Energy/Emotion/Attitude,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion,Attitude
+USUG11901580,Energy/Emotion/Attitude,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion/Attitudes,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion,Attitude
+USUG11901580,Energy/Emotion/Attitude,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion,Attitude
+USUG11901580,Energy/Emotion/Attitude,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion/Attitudes,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion,Attitude
+USUG11901580,Energy/Emotion/Attitude,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion/Attitudes,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion,Attitude
+USUG11901580,Energy/Emotion/Attitude,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion/Attitudes,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion,Attitude
+USUG11901580,Energy/Emotion/Attitude,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion/Attitudes,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion/Attitudes,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion/Attitudes,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion,Attitude
+USUG11901580,Energy/Emotion/Attitude,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion/Attitudes,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion/Attitudes,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion/Attitudes,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion,Attitude
+USUG11901580,Energy/Emotion/Attitude,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion/Attitudes,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11901580,Anatomy/Arrangement,Voice & Music
+USUG11901580,Anatomy/Harmony/Mode,Major
+USUG11901580,Anatomy/Harmony/Root,B
+USUG11901580,Anatomy/Rhythm & Time/BPM,96.03
+USUG11901580,Anatomy/Rhythm & Time/Meter,Simple
+USUG11901580,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11901580,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11901580,Anatomy/Rhythm & Time/Rhythmic Feel,Simple Feel
+USUG11901580,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11901580,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11901580,Anatomy/Structure/Form,Classical Form
+USUG11901580,Anatomy/Structure/Form/Classical Form,Dance
+USUG11901580,Application/Playlist,Time
+USUG11901580,Application/Playlist,Mood
+USUG11901580,Application/Playlist/Mood,Energized
+USUG11901580,Application/Playlist/Mood,Feeling Good
+USUG11901580,Application/Playlist/Mood,Confident
+USUG11901580,Application/Playlist/Time,Decade
+USUG11901580,Application/Playlist/Time/Decade,2010s
+USUG11901580,Application/Version,Single Version
+USUG11901580,Application/Version,Studio Version
+USUG11901580,Energy/Emotion,Positive
+USUG11901580,Energy/Emotion/Attitudes,Lighthearted
+USUG11901580,Energy/Emotion/Positive,Exciting
+USUG11901580,Energy/Emotion/Positive,Uplifting
+USUG11901580,Energy/Intensity,Medium
+USUG11901580,Energy/Intensity/Medium,Medium Intensity
+USUG11901580,Energy/Sound Color,Crisp
+USUG11901580,Energy/Sound Color,Full
+USUG11901580,Energy/Sound Color,Bright
+USUG11901580,Genre,Latin
+USUG11901580,Genre,Pop
+USUG11901580,Genre/Latin,Reggaeton
+USUG11901580,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11901580,Lyrics/Lyric Language/Indo-European,English
+USUG11901580,Lyrics/Lyric Theme,Love
+USUG11901580,Lyrics/Lyric Theme,Conflict
+USUG11901580,Lyrics/Lyric Theme,Feelings
+USUG11901580,Lyrics/Lyric Theme/Conflict,Contempt
+USUG11901580,Lyrics/Lyric Theme/Conflict/Contempt,Brag
+USUG11901580,Lyrics/Lyric Theme/Feelings,Confidence
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUG11901580,Lyrics/Lyric Theme/Feelings/Confidence,Swagger
+USUG11901580,Lyrics/Lyric Theme/Love,Temptation
+USUG11901580,Lyrics/Lyric Theme/Love,Romantic
+USUG11901580,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11901580,Lyrics/Lyric Theme/Love/Temptation,One Night Stand
+USUG11901580,Origin/Applicable Dates/Originally Released Date,6/14/19
+USUG11901580,Origin/Relevant Location,Europe
+USUG11901580,Origin/Relevant Location,South America
+USUG11901580,Origin/Relevant Location,North America
+USUG11901580,Origin/Relevant Location/Europe,France
+USUG11901580,Origin/Relevant Location/North America,United States
+USUG11901580,Origin/Relevant Location/South America,Colombia
+USUG11901580,Performance/Ensemble/Ensemble Section,Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section,Choir
+USUG11901580,Performance/Ensemble/Ensemble Section,String Section
+USUG11901580,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11901580,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11901580,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11901580,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11901580,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11901580,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11901580,Performance/Instrument,Drum Machine
+USUG11901580,Performance/Instrument,Percussion
+USUG11901580,Performance/Instrument,Synthesizer
+USUG11901580,Performance/Instrument,Keyboard
+USUG11901580,Performance/Instrument,Instrument Effect
+USUG11901580,Performance/Instrument/Instrument Effect,Compression
+USUG11901580,Performance/Instrument/Instrument Effect,Reverb
+USUG11901580,Performance/Instrument/Instrument Effect,Sampling
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11901580,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11901580,Performance/Voice,Background Vocals
+USUG11901580,Performance/Voice/Background Vocals,Male Backgrounds
+USUG11901580,Performance/Voice/Lead Vocals,Male
+USUG11901580,Performance/Voice/Vocal Arrangement,Alternating
+USUG11901580,Performance/Voice/Vocal Range,Low Vocal Range
+USUM71904442,Anatomy/Harmony/Root,C
+USUM71904442,Anatomy/Rhythm & Time/BPM,140.06
+USUM71904442,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUM71904442,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUM71904442,Anatomy/Rhythm & Time/Tempo/Speed,Fast
+USUM71904442,Application/Playlist,Mood
+USUM71904442,Application/Playlist,Time
+USUM71904442,Application/Playlist/Mood,Energized
+USUM71904442,Application/Playlist/Mood,Motivated
+USUM71904442,Application/Playlist/Time,Decade
+USUM71904442,Application/Playlist/Time/Decade,2010s
+USUM71904442,Application/Version,Clean
+USUM71904442,Energy/Emotion,Positive
+USUM71904442,Energy/Emotion/Positive,Uplifting
+USUM71904442,Energy/Emotion/Positive,Contented
+USUM71904442,Energy/Emotion/Positive,Sweet
+USUM71904442,Energy/Intensity,Medium
+USUM71904442,Energy/Intensity/Medium,Medium-High Intensity
+USUM71904442,Energy/Sound Color,Balanced
+USUM71904442,Genre,Electronic
+USUM71904442,Lyrics/Lyric Language/Indo-European,English
+USUM71904442,Lyrics/Lyric Theme,Consciousness
+USUM71904442,Lyrics/Lyric Theme,Feelings
+USUM71904442,Lyrics/Lyric Theme,Love
+USUM71904442,Lyrics/Lyric Theme/Consciousness,Awareness
+USUM71904442,Lyrics/Lyric Theme/Feelings,Gratitude
+USUM71904442,Lyrics/Lyric Theme/Feelings,Confidence
+USUM71904442,Lyrics/Lyric Theme/Feelings/Confidence,Assurance
+USUM71904442,Lyrics/Lyric Theme/Feelings/Confidence,Stick
+USUM71904442,Lyrics/Lyric Theme/Feelings/Gratitude,Comfort
+USUM71904442,Lyrics/Lyric Theme/Love,Romantic
+USUM71904442,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUM71904442,Origin/Applicable Dates/Originally Released Date,2019
+USUM71904442,Origin/Relevant Location,North America
+USUM71904442,Origin/Relevant Location/North America,United States
+USUM71904442,Performance/Instrument,Percussion
+USUM71904442,Performance/Instrument,Drum Machine
+USUM71904442,Performance/Instrument,Synthesizer
+USUM71904442,Performance/Instrument,Keyboard
+USUM71904442,Performance/Instrument/Keyboard,Electric Piano
+USUM71904442,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Lead
+USUM71904442,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUM71904442,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUM71904442,Performance/Instrument/Synthesizer/Synthesizer Part,Arpeggiating Synth
+USUM71904442,Performance/Voice/Lead Vocals,Male
+USUM71904442,Performance/Voice/Vocal Range,Low Vocal Range
+GBUM71902920,Anatomy/Arrangement,Voice & Music
+GBUM71902920,Anatomy/Arrangement/Arrangement Technique,Featured Improvisation
+GBUM71902920,Anatomy/Harmony,Harmonic Modulation
+GBUM71902920,Anatomy/Harmony/Mode,Major
+GBUM71902920,Anatomy/Harmony/Root,Bb/A#
+GBUM71902920,Anatomy/Harmony/Root,F
+GBUM71902920,Anatomy/Production,Reverberant
+GBUM71902920,Anatomy/Rhythm & Time/Beat Placement,On The Beat
+GBUM71902920,Anatomy/Rhythm & Time/BPM,89.96
+GBUM71902920,Anatomy/Rhythm & Time/Meter,Simple
+GBUM71902920,Anatomy/Rhythm & Time/Meter/Simple,4
+GBUM71902920,Anatomy/Rhythm & Time/Rhythmic Feel,Swing Feel
+GBUM71902920,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+GBUM71902920,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+GBUM71902920,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+GBUM71902920,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+GBUM71902920,Anatomy/Structure/Form,Song Form
+GBUM71902920,Anatomy/Structure/Structural Complexity,Complex Structure
+GBUM71902920,Anatomy/Structure/Structural Complexity,Simple Structure
+GBUM71902920,Anatomy/Structure/Structural Complexity/Complex Structure,Developing
+GBUM71902920,Application/Playlist,Activity
+GBUM71902920,Application/Playlist,Time
+GBUM71902920,Application/Playlist,Mood
+GBUM71902920,Application/Playlist/Activity,Hanging Out
+GBUM71902920,Application/Playlist/Mood,Romantic
+GBUM71902920,Application/Playlist/Mood,Mellow
+GBUM71902920,Application/Playlist/Mood,Low-Key
+GBUM71902920,Application/Playlist/Mood,Free
+GBUM71902920,Application/Playlist/Mood,Feeling Good
+GBUM71902920,Application/Playlist/Mood,Happy
+GBUM71902920,Application/Playlist/Mood,Chill
+GBUM71902920,Application/Playlist/Mood,Peaceful
+GBUM71902920,Application/Playlist/Mood,Soulful
+GBUM71902920,Application/Playlist/Time,Decade
+GBUM71902920,Application/Playlist/Time/Decade,2010s
+GBUM71902920,Application/Version,Studio Version
+GBUM71902920,Application/Version,Album Version
+GBUM71902920,Application/Version,Clean
+GBUM71902920,Energy/Emotion,Positive
+GBUM71902920,Energy/Emotion/Attitudes,Playful
+GBUM71902920,Energy/Emotion/Positive,Uplifting
+GBUM71902920,Energy/Emotion/Positive,Happy
+GBUM71902920,Energy/Emotion/Positive,Contented
+GBUM71902920,Energy/Emotion/Positive,Sweet
+GBUM71902920,Energy/Intensity,Medium
+GBUM71902920,Energy/Intensity/Medium,Medium Intensity
+GBUM71902920,Energy/Intensity/Medium,Medium-Low Intensity
+GBUM71902920,Energy/Sound Color,Balanced
+GBUM71902920,Energy/Sound Color,Smooth
+GBUM71902920,Energy/Sound Color,Warm
+GBUM71902920,Genre,Jazz
+GBUM71902920,Genre/Jazz,Jazz-Pop
+GBUM71902920,Lyrics/Lyric Language/Indo-European,English
+GBUM71902920,Lyrics/Lyric Theme,Love
+GBUM71902920,Lyrics/Lyric Theme,Feelings
+GBUM71902920,Lyrics/Lyric Theme/Feelings,Confidence
+GBUM71902920,Lyrics/Lyric Theme/Feelings,Gratitude
+GBUM71902920,Lyrics/Lyric Theme/Feelings,Happiness
+GBUM71902920,Lyrics/Lyric Theme/Feelings/Confidence,Support
+GBUM71902920,Lyrics/Lyric Theme/Feelings/Gratitude,Understanding
+GBUM71902920,Lyrics/Lyric Theme/Feelings/Happiness,Sweet
+GBUM71902920,Lyrics/Lyric Theme/Feelings/Happiness,Carefree
+GBUM71902920,Lyrics/Lyric Theme/Love,Temptation
+GBUM71902920,Lyrics/Lyric Theme/Love,Romantic
+GBUM71902920,Lyrics/Lyric Theme/Love,Commitment
+GBUM71902920,Lyrics/Lyric Theme/Love/Commitment,Us Against The World
+GBUM71902920,Lyrics/Lyric Theme/Love/Romantic,Affection
+GBUM71902920,Lyrics/Lyric Theme/Love/Romantic,Being In Love
+GBUM71902920,Lyrics/Lyric Theme/Love/Romantic,We Should Be Together
+GBUM71902920,Lyrics/Lyric Theme/Love/Temptation,Forbidden
+GBUM71902920,Origin/Applicable Dates/Originally Released Date,2019
+GBUM71902920,Origin/Relevant Location,Europe
+GBUM71902920,Origin/Relevant Location/Europe,United Kingdom
+GBUM71902920,Origin/Relevant Location/Europe/United Kingdom,England
+GBUM71902920,Origin/Relevant Location/Europe/United Kingdom/England,London
+GBUM71902920,Performance/Ensemble/Ensemble Configuration,Pop Band
+GBUM71902920,Performance/Ensemble/Ensemble Configuration,Jazz Combo
+GBUM71902920,Performance/Ensemble/Ensemble Section,Percussion
+GBUM71902920,Performance/Ensemble/Ensemble Section,String Section
+GBUM71902920,Performance/Ensemble/Ensemble Section,Wind Section
+GBUM71902920,Performance/Ensemble/Ensemble Section,Choir
+GBUM71902920,Performance/Ensemble/Ensemble Section/Choir,Has Choir
+GBUM71902920,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+GBUM71902920,Performance/Ensemble/Ensemble Section/String Section,No Strings
+GBUM71902920,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+GBUM71902920,Performance/Ensemble/Ensemble Timbre,Electric
+GBUM71902920,Performance/Instrument,Percussion
+GBUM71902920,Performance/Instrument,Wind
+GBUM71902920,Performance/Instrument,Bass
+GBUM71902920,Performance/Instrument,Drum Set
+GBUM71902920,Performance/Instrument,Piano
+GBUM71902920,Performance/Instrument,Organ
+GBUM71902920,Performance/Instrument/Bass,Electric Bass Guitar
+GBUM71902920,Performance/Instrument/Organ,Electric Organ
+GBUM71902920,Performance/Instrument/Percussion,Unpitched Percussion
+GBUM71902920,Performance/Instrument/Percussion/Unpitched Percussion,Hand Claps
+GBUM71902920,Performance/Instrument/Percussion/Unpitched Percussion,Finger Snaps
+GBUM71902920,Performance/Instrument/Wind,Reed
+GBUM71902920,Performance/Instrument/Wind/Reed,Melodica
+GBUM71902920,Performance/Voice,Background Vocals
+GBUM71902920,Performance/Voice/Background Vocals,Mixed Backgrounds
+GBUM71902920,Performance/Voice/Lead Vocals,Mixed
+GBUM71902920,Performance/Voice/Vocal Arrangement,Alternating
+GBUM71902920,Performance/Voice/Vocal Range,Low Vocal Range
+GBUM71902920,Performance/Voice/Vocal Range,High Vocal Range
+GBUM71902920,Anatomy/Arrangement,Voice & Music
+GBUM71902920,Anatomy/Arrangement/Arrangement Technique,Featured Improvisation
+GBUM71902920,Anatomy/Harmony,Harmonic Modulation
+GBUM71902920,Anatomy/Harmony/Mode,Major
+GBUM71902920,Anatomy/Harmony/Root,Bb/A#
+GBUM71902920,Anatomy/Harmony/Root,F
+GBUM71902920,Anatomy/Production,Reverberant
+GBUM71902920,Anatomy/Rhythm & Time/Beat Placement,On The Beat
+GBUM71902920,Anatomy/Rhythm & Time/BPM,89.96
+GBUM71902920,Anatomy/Rhythm & Time/Meter,Simple
+GBUM71902920,Anatomy/Rhythm & Time/Meter/Simple,4
+GBUM71902920,Anatomy/Rhythm & Time/Rhythmic Feel,Swing Feel
+GBUM71902920,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+GBUM71902920,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+GBUM71902920,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+GBUM71902920,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+GBUM71902920,Anatomy/Structure/Form,Song Form
+GBUM71902920,Anatomy/Structure/Structural Complexity,Complex Structure
+GBUM71902920,Anatomy/Structure/Structural Complexity,Simple Structure
+GBUM71902920,Anatomy/Structure/Structural Complexity/Complex Structure,Developing
+GBUM71902920,Application/Playlist,Activity
+GBUM71902920,Application/Playlist,Time
+GBUM71902920,Application/Playlist,Mood
+GBUM71902920,Application/Playlist/Activity,Hanging Out
+GBUM71902920,Application/Playlist/Mood,Romantic
+GBUM71902920,Application/Playlist/Mood,Mellow
+GBUM71902920,Application/Playlist/Mood,Low-Key
+GBUM71902920,Application/Playlist/Mood,Free
+GBUM71902920,Application/Playlist/Mood,Feeling Good
+GBUM71902920,Application/Playlist/Mood,Happy
+GBUM71902920,Application/Playlist/Mood,Chill
+GBUM71902920,Application/Playlist/Mood,Peaceful
+GBUM71902920,Application/Playlist/Mood,Soulful
+GBUM71902920,Application/Playlist/Time,Decade
+GBUM71902920,Application/Playlist/Time/Decade,2010s
+GBUM71902920,Application/Version,Studio Version
+GBUM71902920,Application/Version,Album Version
+GBUM71902920,Application/Version,Clean
+GBUM71902920,Energy/Emotion,Positive
+GBUM71902920,Energy/Emotion/Attitudes,Playful
+GBUM71902920,Energy/Emotion/Positive,Uplifting
+GBUM71902920,Energy/Emotion/Positive,Happy
+GBUM71902920,Energy/Emotion/Positive,Contented
+GBUM71902920,Energy/Emotion/Positive,Sweet
+GBUM71902920,Energy/Intensity,Medium
+GBUM71902920,Energy/Intensity/Medium,Medium Intensity
+GBUM71902920,Energy/Intensity/Medium,Medium-Low Intensity
+GBUM71902920,Energy/Sound Color,Balanced
+GBUM71902920,Energy/Sound Color,Smooth
+GBUM71902920,Energy/Sound Color,Warm
+GBUM71902920,Genre,Jazz
+GBUM71902920,Genre/Jazz,Jazz-Pop
+GBUM71902920,Lyrics/Lyric Language/Indo-European,English
+GBUM71902920,Lyrics/Lyric Theme,Love
+GBUM71902920,Lyrics/Lyric Theme,Feelings
+GBUM71902920,Lyrics/Lyric Theme/Feelings,Confidence
+GBUM71902920,Lyrics/Lyric Theme/Feelings,Gratitude
+GBUM71902920,Lyrics/Lyric Theme/Feelings,Happiness
+GBUM71902920,Lyrics/Lyric Theme/Feelings/Confidence,Support
+GBUM71902920,Lyrics/Lyric Theme/Feelings/Gratitude,Understanding
+GBUM71902920,Lyrics/Lyric Theme/Feelings/Happiness,Sweet
+GBUM71902920,Lyrics/Lyric Theme/Feelings/Happiness,Carefree
+GBUM71902920,Lyrics/Lyric Theme/Love,Temptation
+GBUM71902920,Lyrics/Lyric Theme/Love,Romantic
+GBUM71902920,Lyrics/Lyric Theme/Love,Commitment
+GBUM71902920,Lyrics/Lyric Theme/Love/Commitment,Us Against The World
+GBUM71902920,Lyrics/Lyric Theme/Love/Romantic,Affection
+GBUM71902920,Lyrics/Lyric Theme/Love/Romantic,Being In Love
+GBUM71902920,Lyrics/Lyric Theme/Love/Romantic,We Should Be Together
+GBUM71902920,Lyrics/Lyric Theme/Love/Temptation,Forbidden
+GBUM71902920,Origin/Applicable Dates/Originally Released Date,2019
+GBUM71902920,Origin/Relevant Location,Europe
+GBUM71902920,Origin/Relevant Location/Europe,United Kingdom
+GBUM71902920,Origin/Relevant Location/Europe/United Kingdom,England
+GBUM71902920,Origin/Relevant Location/Europe/United Kingdom/England,London
+GBUM71902920,Performance/Ensemble/Ensemble Configuration,Pop Band
+GBUM71902920,Performance/Ensemble/Ensemble Configuration,Jazz Combo
+GBUM71902920,Performance/Ensemble/Ensemble Section,Percussion
+GBUM71902920,Performance/Ensemble/Ensemble Section,String Section
+GBUM71902920,Performance/Ensemble/Ensemble Section,Wind Section
+GBUM71902920,Performance/Ensemble/Ensemble Section,Choir
+GBUM71902920,Performance/Ensemble/Ensemble Section/Choir,Has Choir
+GBUM71902920,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+GBUM71902920,Performance/Ensemble/Ensemble Section/String Section,No Strings
+GBUM71902920,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+GBUM71902920,Performance/Ensemble/Ensemble Timbre,Electric
+GBUM71902920,Performance/Instrument,Percussion
+GBUM71902920,Performance/Instrument,Wind
+GBUM71902920,Performance/Instrument,Bass
+GBUM71902920,Performance/Instrument,Drum Set
+GBUM71902920,Performance/Instrument,Piano
+GBUM71902920,Performance/Instrument,Organ
+GBUM71902920,Performance/Instrument/Bass,Electric Bass Guitar
+GBUM71902920,Performance/Instrument/Organ,Electric Organ
+GBUM71902920,Performance/Instrument/Percussion,Unpitched
+GBUM71902920,Performance/Instrument/Percussion/Unpitched,Hand Claps
+GBUM71902920,Performance/Instrument/Percussion/Unpitched,Finger Snaps
+GBUM71902920,Performance/Instrument/Wind,Reed
+GBUM71902920,Performance/Instrument/Wind/Reed,Melodica
+GBUM71902920,Performance/Voice,Background Vocals
+GBUM71902920,Performance/Voice/Background Vocals,Mixed Backgrounds
+GBUM71902920,Performance/Voice/Lead Vocals,Mixed
+GBUM71902920,Performance/Voice/Vocal Arrangement,Alternating
+GBUM71902920,Performance/Voice/Vocal Range,Low Vocal Range
+GBUM71902920,Performance/Voice/Vocal Range,High Vocal Range
+USUG11900526,Anatomy/Arrangement,Voice & Music
+USUG11900526,Anatomy/Harmony/Mode,Major
+USUG11900526,Anatomy/Harmony/Root,Ab/G#
+USUG11900526,Anatomy/Production,Loop-Based
+USUG11900526,Anatomy/Production,Psychedelic 
+USUG11900526,Anatomy/Rhythm & Time/BPM,160
+USUG11900526,Anatomy/Rhythm & Time/Meter,Simple
+USUG11900526,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11900526,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11900526,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11900526,Anatomy/Rhythm & Time/Tempo/Speed,Fast
+USUG11900526,Anatomy/Structure/Dynamic Shape,Dynamic
+USUG11900526,Anatomy/Structure/Form,Song Form
+USUG11900526,Application/Function,Recognizable Music
+USUG11900526,Application/Media/Media Evocation,Comedy
+USUG11900526,Application/Media/Media Evocation,Romantic Comedy
+USUG11900526,Application/Playlist,Activity
+USUG11900526,Application/Playlist,Mood
+USUG11900526,Application/Playlist,Time
+USUG11900526,Application/Playlist/Activity,Dancing
+USUG11900526,Application/Playlist/Activity,Working Out
+USUG11900526,Application/Playlist/Mood,Energized
+USUG11900526,Application/Playlist/Time,Decade
+USUG11900526,Application/Playlist/Time/Decade,2010s
+USUG11900526,Application/Version,Clean
+USUG11900526,Energy/Emotion,Positive
+USUG11900526,Energy/Emotion/Positive,Uplifting
+USUG11900526,Energy/Emotion/Positive,Exciting
+USUG11900526,Energy/Intensity,High
+USUG11900526,Energy/Intensity/High,High Intensity
+USUG11900526,Energy/Sound Color,Bright
+USUG11900526,Genre,Electronic
+USUG11900526,Lyrics/Lyric Language/Indo-European,English
+USUG11900526,Lyrics/Lyric Theme,Objects
+USUG11900526,Lyrics/Lyric Theme/Objects,Light
+USUG11900526,Origin/Applicable Dates/Originally Released Date,2019
+USUG11900526,Origin/Relevant Location,Europe
+USUG11900526,Origin/Relevant Location/Europe,France
+USUG11900526,Performance/Ensemble/Ensemble Section,String Section
+USUG11900526,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11900526,Performance/Ensemble/Ensemble Section,Percussion
+USUG11900526,Performance/Ensemble/Ensemble Section,Choir
+USUG11900526,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11900526,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11900526,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11900526,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11900526,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11900526,Performance/Instrument,Percussion
+USUG11900526,Performance/Instrument,Drum Machine
+USUG11900526,Performance/Instrument,Synthesizer
+USUG11900526,Performance/Instrument/Synthesizer/Synthesizer Part,Arpeggiating Synth
+USUG11900526,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11900526,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11900526,Performance/Voice/Lead Vocals,Neutral
+USUG11900526,Performance/Voice/Vocal Range,High Vocal Range
+USUG11902391,Anatomy/Arrangement,Voice & Music
+USUG11902391,Anatomy/Harmony/Mode,Minor
+USUG11902391,Anatomy/Harmony/Root,Ab/G#
+USUG11902391,Anatomy/Rhythm & Time/Beat Placement,On The Beat
+USUG11902391,Anatomy/Rhythm & Time/BPM,105.13
+USUG11902391,Anatomy/Rhythm & Time/Meter,Simple
+USUG11902391,Anatomy/Rhythm & Time/Meter/Simple,4
+USUG11902391,Anatomy/Rhythm & Time/Rhythm,Dembow
+USUG11902391,Anatomy/Rhythm & Time/Rhythmic Feel,Groovy Feel
+USUG11902391,Anatomy/Rhythm & Time/Rhythmic Feel,Automated
+USUG11902391,Anatomy/Rhythm & Time/Tempo,Persistent Pulse
+USUG11902391,Anatomy/Rhythm & Time/Tempo/Persistent Pulse,Steady
+USUG11902391,Anatomy/Rhythm & Time/Tempo/Speed,Medium
+USUG11902391,Anatomy/Structure/Dynamic Shape,Steady
+USUG11902391,Anatomy/Structure/Form,Song Form
+USUG11902391,Anatomy/Structure/Structural Complexity,Simple Structure
+USUG11902391,Application/Playlist,Activity
+USUG11902391,Application/Playlist,Time
+USUG11902391,Application/Playlist,Mood
+USUG11902391,Application/Playlist/Activity,Dancing
+USUG11902391,Application/Playlist/Activity,Party
+USUG11902391,Application/Playlist/Mood,Feeling Good
+USUG11902391,Application/Playlist/Time,Decade
+USUG11902391,Application/Playlist/Time/Decade,2010s
+USUG11902391,Application/Version,Studio Version
+USUG11902391,Application/Version,Album Version
+USUG11902391,Energy/Emotion,Positive
+USUG11902391,Energy/Emotion/Positive,Sensual
+USUG11902391,Energy/Emotion/Positive,Exciting
+USUG11902391,Energy/Intensity,Medium
+USUG11902391,Energy/Intensity/Medium,Medium-High Intensity
+USUG11902391,Energy/Sound Color,Crisp
+USUG11902391,Energy/Sound Color,Bright
+USUG11902391,Genre,Latin
+USUG11902391,Genre,Reggae
+USUG11902391,Genre/Latin,Reggaeton
+USUG11902391,Genre/Reggae,Dancehall
+USUG11902391,Lyrics/Lyric Language/Indo-European,English
+USUG11902391,Lyrics/Lyric Language/Indo-European,Spanish
+USUG11902391,Lyrics/Lyric Theme,Love
+USUG11902391,Lyrics/Lyric Theme/Love,Temptation
+USUG11902391,Lyrics/Lyric Theme/Love,Romantic
+USUG11902391,Lyrics/Lyric Theme/Love/Romantic,Affection
+USUG11902391,Lyrics/Lyric Theme/Love/Romantic,Romance
+USUG11902391,Lyrics/Lyric Theme/Love/Temptation,Can't Resist
+USUG11902391,Lyrics/Lyric Theme/Love/Temptation,Flirt
+USUG11902391,Lyrics/Lyric Theme/Love/Temptation,Need
+USUG11902391,Lyrics/Lyric Theme/Love/Temptation,Player
+USUG11902391,Origin/Applicable Dates/Originally Released Date,7/26/19
+USUG11902391,Origin/Relevant Location,Europe
+USUG11902391,Origin/Relevant Location,North America
+USUG11902391,Origin/Relevant Location,South America
+USUG11902391,Origin/Relevant Location/Europe,France
+USUG11902391,Origin/Relevant Location/North America,Jamaica
+USUG11902391,Origin/Relevant Location/South America,Brazil
+USUG11902391,Performance/Ensemble/Ensemble Section,Percussion
+USUG11902391,Performance/Ensemble/Ensemble Section,String Section
+USUG11902391,Performance/Ensemble/Ensemble Section,Wind Section
+USUG11902391,Performance/Ensemble/Ensemble Section,Choir
+USUG11902391,Performance/Ensemble/Ensemble Section/Choir,No Choir
+USUG11902391,Performance/Ensemble/Ensemble Section/Percussion,Has Percussion
+USUG11902391,Performance/Ensemble/Ensemble Section/String Section,No Strings
+USUG11902391,Performance/Ensemble/Ensemble Section/Wind Section,No Winds
+USUG11902391,Performance/Ensemble/Ensemble Timbre,Electronic/Synthetic
+USUG11902391,Performance/Instrument,Percussion
+USUG11902391,Performance/Instrument,Drum Machine
+USUG11902391,Performance/Instrument,Synthesizer
+USUG11902391,Performance/Instrument,Keyboard
+USUG11902391,Performance/Instrument/Other,Toy Piano
+USUG11902391,Performance/Instrument/Percussion,Unpitched Percussion
+USUG11902391,Performance/Instrument/Percussion/Unpitched Percussion,Güiro
+USUG11902391,Performance/Instrument/Synthesizer/Synthesizer Part,Synth FX
+USUG11902391,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Bass
+USUG11902391,Performance/Instrument/Synthesizer/Synthesizer Part,Synth Pad
+USUG11902391,Performance/Voice,Background Vocals
+USUG11902391,Performance/Voice/Background Vocals,Mixed Backgrounds
+USUG11902391,Performance/Voice/Lead Vocals,Mixed
+USUG11902391,Performance/Voice/Vocal Arrangement,Alternating
+USUG11902391,Performance/Voice/Vocal Range,High Vocal Range
+USUG11902391,Performance/Voice/Vocal Range,Low Vocal Range
+USUG11902391,Performance/Voice/Vocal Technique,Toasting
+USUG11902391,Performance/Voice/Vocal Technique,Rap
